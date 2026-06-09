@@ -9,11 +9,6 @@ A complete ETL (Extract, Transform, Load) and analysis pipeline for customer dat
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Pipeline Overview](#data-pipeline-overview)
-- [Configuration](#configuration)
-- [License](#license)
 
 ---
 
