@@ -1,0 +1,848 @@
+CustomerID,Title,FirstName,MiddleName,LastName,CompanyName,SalesPerson,EmailAddress,Phone,ModifiedDate,EmailDomain
+1,Mr.,Orlando,N.,Gee,A Bike Store,adventure-works\pamela0,orlando0@adventure-works.com,2455550173,2005-08-01 00:00:00.000,adventure-works.com
+2,Mr.,Keith,Unknown,Harris,Progressive Sports,adventure-works\david8,keith0@adventure-works.com,1705550127,2006-08-01 00:00:00.000,adventure-works.com
+3,Ms.,Donna,F.,Carreras,Advanced Bike Components,adventure-works\jillian0,donna0@adventure-works.com,2795550130,2005-09-01 00:00:00.000,adventure-works.com
+4,Ms.,Janet,M.,Gates,Modular Cycle Systems,adventure-works\jillian0,janet1@adventure-works.com,7105550173,2006-07-01 00:00:00.000,adventure-works.com
+5,Mr.,Lucy,Unknown,Harrington,Metropolitan Sports Supply,adventure-works\shu0,lucy0@adventure-works.com,8285550186,2006-09-01 00:00:00.000,adventure-works.com
+6,Ms.,Rosmarie,J.,Carroll,Aerobic Exercise Company,adventure-works\linda3,rosmarie0@adventure-works.com,2445550112,2007-09-01 00:00:00.000,adventure-works.com
+7,Mr.,Dominic,P.,Gash,Associated Bikes,adventure-works\shu0,dominic0@adventure-works.com,1925550173,2006-07-01 00:00:00.000,adventure-works.com
+10,Ms.,Kathleen,M.,Garza,Rural Cycle Emporium,adventure-works\josé1,kathleen0@adventure-works.com,1505550127,2006-09-01 00:00:00.000,adventure-works.com
+11,Ms.,Katherine,Unknown,Harding,Sharp Bikes,adventure-works\josé1,katherine0@adventure-works.com,9265550159,2005-08-01 00:00:00.000,adventure-works.com
+12,Mr.,Johnny,A.,Caprio,Bikes and Motorbikes,adventure-works\garrett1,johnny0@adventure-works.com,1125550191,2006-08-01 00:00:00.000,adventure-works.com
+16,Mr.,Christopher,R.,Beck,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1115005550132,2006-09-01 00:00:00.000,adventure-works.com
+18,Mr.,David,J.,Liu,Catalog Store,adventure-works\michael9,david20@adventure-works.com,4405550132,2005-08-01 00:00:00.000,adventure-works.com
+19,Mr.,John,A.,Beaver,Center Cycle Shop,adventure-works\pamela0,john8@adventure-works.com,5215550195,2007-04-01 00:00:00.000,adventure-works.com
+20,Ms.,Jean,P.,Handley,Central Discount Store,adventure-works\david8,jean1@adventure-works.com,5825550113,2005-09-01 00:00:00.000,adventure-works.com
+21,Unknown,Jinghao,Unknown,Liu,Chic Department Stores,adventure-works\jillian0,jinghao1@adventure-works.com,9285550116,2006-09-01 00:00:00.000,adventure-works.com
+22,Ms.,Linda,E.,Burnett,Travel Systems,adventure-works\jillian0,linda4@adventure-works.com,1215550121,2005-08-01 00:00:00.000,adventure-works.com
+23,Mr.,Kerim,Unknown,Hanif,Bike World,adventure-works\shu0,kerim0@adventure-works.com,2165550122,2006-09-01 00:00:00.000,adventure-works.com
+24,Mr.,Kevin,Unknown,Liu,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,9265550164,2006-09-01 00:00:00.000,adventure-works.com
+25,Mr.,Donald,L.,Blanton,Coalition Bike Company,adventure-works\shu0,donald0@adventure-works.com,3575550161,2006-09-01 00:00:00.000,adventure-works.com
+28,Ms.,Jackie,E.,Blackwell,Commuter Bicycle Store,adventure-works\josé1,jackie0@adventure-works.com,9725550163,2007-08-01 00:00:00.000,adventure-works.com
+29,Mr.,Bryan,Unknown,Hamilton,Cross-Country Riding Supplies,adventure-works\josé1,bryan2@adventure-works.com,3445550144,2005-08-01 00:00:00.000,adventure-works.com
+30,Mr.,Todd,R.,Logan,Cycle Merchants,adventure-works\garrett1,todd0@adventure-works.com,7835550110,2006-09-01 00:00:00.000,adventure-works.com
+34,Ms.,Barbara,J.,German,Cycles Wholesaler & Mfg.,adventure-works\jae0,barbara4@adventure-works.com,1115005550181,2007-07-01 00:00:00.000,adventure-works.com
+37,Mr.,Jim,Unknown,Geist,Two Bike Shops,adventure-works\pamela0,jim1@adventure-works.com,7245550161,2006-09-01 00:00:00.000,adventure-works.com
+38,Ms.,Betty,M.,Haines,Finer Mart,adventure-works\david8,betty0@adventure-works.com,8675550114,2007-09-01 00:00:00.000,adventure-works.com
+39,Ms.,Sharon,J.,Looney,Fitness Hotel,adventure-works\jillian0,sharon2@adventure-works.com,3775550132,2006-09-01 00:00:00.000,adventure-works.com
+40,Mr.,Darren,Unknown,Gehring,Journey Sporting Goods,adventure-works\jillian0,darren0@adventure-works.com,4175550182,2005-08-01 00:00:00.000,adventure-works.com
+41,Ms.,Erin,M.,Hagens,Distant Inn,adventure-works\shu0,erin1@adventure-works.com,2445550127,2006-07-01 00:00:00.000,adventure-works.com
+42,Mr.,Jeremy,Unknown,Los,Healthy Activity Store,adventure-works\linda3,jeremy0@adventure-works.com,9115550165,2006-07-01 00:00:00.000,adventure-works.com
+43,Ms.,Elsa,Unknown,Leavitt,Frugal Bike Shop,adventure-works\shu0,elsa0@adventure-works.com,4825550174,2006-08-01 00:00:00.000,adventure-works.com
+46,Mr.,David,O,Lawrence,Gear-Shift Bikes Limited,adventure-works\josé1,david19@adventure-works.com,6535550159,2006-12-01 00:00:00.000,adventure-works.com
+47,Ms.,Hattie,J.,Haemon,Greater Bike Store,adventure-works\josé1,hattie0@adventure-works.com,1415550172,2005-09-01 00:00:00.000,adventure-works.com
+48,Ms.,Anita,R.,Lucerne,Grand Industries,adventure-works\garrett1,anita0@adventure-works.com,1645550118,2007-09-01 00:00:00.000,adventure-works.com
+52,Ms.,Rebecca,Unknown,Laszlo,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1115005550155,2007-09-01 00:00:00.000,adventure-works.com
+55,Mr.,Eric,Unknown,Lang,Kickstands and Accessories Company,adventure-works\pamela0,eric6@adventure-works.com,9325550163,2007-09-01 00:00:00.000,adventure-works.com
+56,Mr.,Brian,Unknown,Groth,Latest Accessories Sales,adventure-works\david8,brian5@adventure-works.com,4615550118,2006-08-01 00:00:00.000,adventure-works.com
+57,Ms.,Judy,R.,Lundahl,Leading Sales & Repair,adventure-works\jillian0,judy1@adventure-works.com,2605550130,2005-09-01 00:00:00.000,adventure-works.com
+58,Mr.,Peter,Unknown,Kurniawan,Largest Bike Store,adventure-works\jillian0,peter4@adventure-works.com,4365550160,2005-11-01 00:00:00.000,adventure-works.com
+59,Mr.,Douglas,Unknown,Groncki,Locks Company,adventure-works\shu0,douglas2@adventure-works.com,3855550140,2007-09-01 00:00:00.000,adventure-works.com
+60,Mr.,Sean,J.,Lunt,Main Bicycle Services,adventure-works\linda3,sean4@adventure-works.com,1835550111,2007-09-01 00:00:00.000,adventure-works.com
+61,Mr.,Jeffrey,Unknown,Kurtz,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,4525550179,2006-09-01 00:00:00.000,adventure-works.com
+64,Mr.,Vamsi,Unknown,Kuppa,Metal Clearing House,adventure-works\josé1,vamsi1@adventure-works.com,2905550196,2007-08-01 00:00:00.000,adventure-works.com
+65,Ms.,Jane,P.,Greer,Metro Manufacturing,adventure-works\josé1,jane2@adventure-works.com,7375550163,2006-08-01 00:00:00.000,adventure-works.com
+66,Mr.,Alexander,J.,Deborde,Neighborhood Store,adventure-works\garrett1,alexander1@adventure-works.com,3945550176,2006-08-01 00:00:00.000,adventure-works.com
+70,Mr.,Deepak,Unknown,Kumar,Outdoor Aerobic Systems Company,adventure-works\jae0,deepak0@adventure-works.com,1115005550122,2007-08-01 00:00:00.000,adventure-works.com
+73,Ms.,Margaret,T.,Krupka,Outdoor Sports Supply,adventure-works\pamela0,margaret1@adventure-works.com,1075550132,2005-08-01 00:00:00.000,adventure-works.com
+74,Mr.,Christopher,M.,Bright,Parcel Express Delivery Service,adventure-works\david8,christopher2@adventure-works.com,1625550166,2005-11-01 00:00:00.000,adventure-works.com
+75,Ms.,Aidan,Unknown,Delaney,Paint Supply,adventure-works\jillian0,aidan0@adventure-works.com,3585550188,2005-09-01 00:00:00.000,adventure-works.com
+76,Mr.,James,J.,Krow,Out-of-the-Way Hotels,adventure-works\jillian0,james11@adventure-works.com,2655550190,2005-09-01 00:00:00.000,adventure-works.com
+77,Mr.,Michael,Unknown,Brundage,Mechanical Products Ltd.,adventure-works\shu0,michael13@adventure-works.com,1285550148,2006-08-01 00:00:00.000,adventure-works.com
+78,Mr.,Stefan,Unknown,Delmarco,Preferred Bikes,adventure-works\linda3,stefan0@adventure-works.com,8195550186,2005-08-01 00:00:00.000,adventure-works.com
+79,Mr.,Mitch,Unknown,Kennedy,Reasonable Bicycle Sales,adventure-works\shu0,mitch0@adventure-works.com,9965550192,2006-08-01 00:00:00.000,adventure-works.com
+82,Mr.,James,D.,Kramer,Refined Department Stores,adventure-works\josé1,james10@adventure-works.com,8145550130,2006-07-01 00:00:00.000,adventure-works.com
+83,Mr.,Eric,J.,Brumfield,Requisite Part Supply,adventure-works\josé1,eric3@adventure-works.com,6445550114,2005-07-01 00:00:00.000,adventure-works.com
+84,Ms.,Della,F.,Demott Jr,Rewarding Activities Company,adventure-works\garrett1,della0@adventure-works.com,7525550185,2005-08-01 00:00:00.000,adventure-works.com
+88,Ms.,Pamala,M.,Kotc,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1115005550173,2007-09-01 00:00:00.000,adventure-works.com
+91,Ms.,Joy,R.,Koski,Scooters and Bikes Store,adventure-works\pamela0,joy0@adventure-works.com,8105550198,2005-09-01 00:00:00.000,adventure-works.com
+92,Ms.,Jovita,A.,Carmody,Sports Commodities,adventure-works\david8,jovita0@adventure-works.com,6465550137,2005-09-01 00:00:00.000,adventure-works.com
+93,Mr.,Prashanth,Unknown,Desai,Stationary Bikes and Stands,adventure-works\jillian0,prashanth0@adventure-works.com,1385550156,2005-09-01 00:00:00.000,adventure-works.com
+94,Mr.,Scott,Unknown,Konersmann,Specialty Sports Store,adventure-works\jillian0,scott6@adventure-works.com,5565550192,2006-07-01 00:00:00.000,adventure-works.com
+95,Ms.,Jane,N.,Carmichael,Rural Department Store,adventure-works\shu0,jane0@adventure-works.com,7165550167,2007-07-01 00:00:00.000,adventure-works.com
+96,Ms.,Bonnie,B.,Lepro,More Bikes!,adventure-works\linda3,bonnie2@adventure-works.com,3545550130,2005-09-01 00:00:00.000,adventure-works.com
+97,Mr.,Eugene,Unknown,Kogan,Mountain Bike Center,adventure-works\shu0,eugene2@adventure-works.com,1365550134,2006-08-01 00:00:00.000,adventure-works.com
+100,Mr.,Kirk,T,King,Up-To-Date Sports,adventure-works\josé1,kirk2@adventure-works.com,9795550163,2007-08-01 00:00:00.000,adventure-works.com
+101,Mr.,William,J.,Conner,Urban Sports Emporium,adventure-works\josé1,william1@adventure-works.com,3835550111,2006-08-01 00:00:00.000,adventure-works.com
+102,Ms.,Linda,Unknown,Leste,National Manufacturing,adventure-works\garrett1,linda7@adventure-works.com,4935550134,2005-08-01 00:00:00.000,adventure-works.com
+106,Ms.,Andrea,A.,Thomsen,West Side Mart,adventure-works\jae0,andrea1@adventure-works.com,1115005550120,2007-09-01 00:00:00.000,adventure-works.com
+109,Mr.,Daniel,P.,Thompson,Travel Sports,adventure-works\pamela0,daniel2@adventure-works.com,2475550197,2007-09-01 00:00:00.000,adventure-works.com
+110,Ms.,Kendra,N.,Thompson,Vintage Sport Boutique,adventure-works\david8,kendra0@adventure-works.com,4645550188,2007-07-01 00:00:00.000,adventure-works.com
+111,Mr.,Scott,A.,Colvin,Westside Cycle Store,adventure-works\jillian0,scott1@adventure-works.com,1195550144,2005-12-01 00:00:00.000,adventure-works.com
+112,Ms.,Elsie,L.,Lewin,Town Industries,adventure-works\jillian0,elsie0@adventure-works.com,8035550116,2007-09-01 00:00:00.000,adventure-works.com
+113,Mr.,Donald,M.,Thompson,Trendy Department Stores,adventure-works\shu0,donald1@adventure-works.com,2735550111,2007-09-01 00:00:00.000,adventure-works.com
+114,Mr.,John,L.,Colon,Two Wheels Cycle Store,adventure-works\linda3,john14@adventure-works.com,3975550144,2005-09-01 00:00:00.000,adventure-works.com
+115,Mr.,George,Z.,Li,Security Racks and Locks Wholesalers,adventure-works\shu0,george3@adventure-works.com,6995550183,2006-08-01 00:00:00.000,adventure-works.com
+118,Mr.,Yale,Unknown,Li,Rapid Bikes,adventure-works\josé1,yale0@adventure-works.com,3165550138,2005-09-01 00:00:00.000,adventure-works.com
+119,Ms.,Phyllis,A.,Thomas,Red Bicycle Company,adventure-works\josé1,phyllis2@adventure-works.com,6675550112,2005-07-01 00:00:00.000,adventure-works.com
+120,Mr.,Pat,Unknown,Coleman,Machines & Cycles Store,adventure-works\garrett1,pat2@adventure-works.com,2925550128,2007-07-01 00:00:00.000,adventure-works.com
+124,Ms.,Yuhong,Unknown,Li,Nearby Sporting Goods,adventure-works\jae0,yuhong1@adventure-works.com,1115005550176,2006-08-01 00:00:00.000,adventure-works.com
+127,Mr.,Joseph,M.,Lique,Front Sporting Goods,adventure-works\pamela0,joseph2@adventure-works.com,1195550195,2006-08-01 00:00:00.000,adventure-works.com
+128,Ms.,Judy,J.,Thames,Demand Distributors,adventure-works\david8,judy3@adventure-works.com,7995550118,2006-06-01 00:00:00.000,adventure-works.com
+129,Ms.,Connie,L.,Coffman,Discount Bicycle Specialists,adventure-works\jillian0,connie0@adventure-works.com,4265550181,2005-11-01 00:00:00.000,adventure-works.com
+130,Mr.,Paulo,H.,Lisboa,Elite Bikes,adventure-works\jillian0,paulo0@adventure-works.com,3805550116,2006-09-01 00:00:00.000,adventure-works.com
+131,Ms.,Vanessa,J.,Tench,Eighth Bike Store,adventure-works\shu0,vanessa0@adventure-works.com,7855550163,2007-08-01 00:00:00.000,adventure-works.com
+132,Ms.,Teanna,M.,Cobb,Another Sporting Goods Company,adventure-works\linda3,teanna0@adventure-works.com,6615550168,2007-08-01 00:00:00.000,adventure-works.com
+133,Mr.,Michael,Unknown,Graff,Commercial Sporting Goods,adventure-works\shu0,michael16@adventure-works.com,1325550150,2006-09-01 00:00:00.000,adventure-works.com
+136,Mr.,Derek,Unknown,Graham,Wholesale Parts,adventure-works\josé1,derek0@adventure-works.com,6745550187,2005-08-01 00:00:00.000,adventure-works.com
+137,Unknown,Gytis,M,Barzdukas,Transportation Options,adventure-works\josé1,gytis0@adventure-works.com,2575550119,2005-11-01 00:00:00.000,adventure-works.com
+138,Ms.,Jane,Unknown,Clayton,South Bike Company,adventure-works\garrett1,jane1@adventure-works.com,2065550195,2007-08-01 00:00:00.000,adventure-works.com
+142,Mr.,Jon,Unknown,Grande,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1115005550114,2007-09-01 00:00:00.000,adventure-works.com
+145,Mr.,Ted,Unknown,Bremer,Raw Materials Inc,adventure-works\pamela0,ted0@adventure-works.com,9625550166,2005-08-01 00:00:00.000,adventure-works.com
+146,Mr.,Richard,Unknown,Bready,Latest Sports Equipment,adventure-works\david8,richard1@adventure-works.com,3405550131,2005-07-01 00:00:00.000,adventure-works.com
+147,Ms.,Alice,Unknown,Clark,Local Hardware Factory,adventure-works\jillian0,alice1@adventure-works.com,2215550141,2006-09-01 00:00:00.000,adventure-works.com
+148,Mr.,Alan,Unknown,Brewer,Lots of Bikes Storehouse,adventure-works\jillian0,alan1@adventure-works.com,4945550134,2005-11-01 00:00:00.000,adventure-works.com
+149,Mr.,Cornelius,L.,Brandon,Initial Bike Company,adventure-works\shu0,cornelius0@adventure-works.com,2295550114,2006-09-01 00:00:00.000,adventure-works.com
+150,Ms.,Jill,J.,Christie,Fleet Bikes,adventure-works\linda3,jill1@adventure-works.com,9275550198,2006-08-01 00:00:00.000,adventure-works.com
+151,Mr.,Walter,J.,Brian,Futuristic Bikes,adventure-works\shu0,walter0@adventure-works.com,1635550155,2006-09-01 00:00:00.000,adventure-works.com
+154,Mr.,Carlton,M.,Carlisle,Camping and Sports Store,adventure-works\josé1,carlton0@adventure-works.com,1935550116,2007-09-01 00:00:00.000,adventure-works.com
+155,Mr.,Joseph,N.,Castellucio,Corner Bicycle Supply,adventure-works\josé1,joseph1@adventure-works.com,1805550114,2005-09-01 00:00:00.000,adventure-works.com
+156,Mr.,Lester,J.,Bowman,Metal Processing Company,adventure-works\garrett1,lester0@adventure-works.com,8445550112,2005-09-01 00:00:00.000,adventure-works.com
+160,Ms.,Brigid,F.,Cavendish,Vigorous Sports Store,adventure-works\jae0,brigid0@adventure-works.com,1115005550178,2006-09-01 00:00:00.000,adventure-works.com
+163,Mr.,Andrew,Unknown,Cencini,Sports Merchandise,adventure-works\pamela0,andrew2@adventure-works.com,6445550111,2007-09-01 00:00:00.000,adventure-works.com
+164,Ms.,Cindy,M.,Dodd,Suburban Cycle Shop,adventure-works\david8,cindy0@adventure-works.com,7065550140,2005-08-01 00:00:00.000,adventure-works.com
+165,Mr.,Randall,Unknown,Boseman,Third Bike Store,adventure-works\jillian0,randall0@adventure-works.com,3835550117,2006-09-01 00:00:00.000,adventure-works.com
+166,Ms.,Stacey,M.,Cereghino,Fitness Toy Store,adventure-works\jillian0,stacey0@adventure-works.com,3515550131,2005-07-01 00:00:00.000,adventure-works.com
+167,Mr.,Blaine,Unknown,Dockter,Farthermost Bike Shop,adventure-works\shu0,blaine0@adventure-works.com,1565550187,2005-08-01 00:00:00.000,adventure-works.com
+168,Sr.,Luis,Unknown,Bonifaz,Economy Bikes Company,adventure-works\linda3,luis0@adventure-works.com,6885550113,2006-09-01 00:00:00.000,adventure-works.com
+169,Ms.,Brenda,Unknown,Diaz,Downtown Hotel,adventure-works\shu0,brenda2@adventure-works.com,1475550192,2005-09-01 00:00:00.000,adventure-works.com
+172,Ms.,Gabriele,Unknown,Dickmann,Certified Sports Supply,adventure-works\josé1,gabriele0@adventure-works.com,8355550116,2005-09-01 00:00:00.000,adventure-works.com
+173,Mr.,Rudolph,J.,Dillon,Sundry Sporting Goods,adventure-works\josé1,rudolph0@adventure-works.com,7225550169,2005-09-01 00:00:00.000,adventure-works.com
+174,Mr.,Michael,L.,Bohling,Toy Manufacturing Inc,adventure-works\garrett1,michael12@adventure-works.com,8385550147,2005-09-01 00:00:00.000,adventure-works.com
+178,Mr.,Dick,Unknown,Dievendorff,Rampart Amusement Company,adventure-works\jae0,dick1@adventure-works.com,1115005550193,2007-08-01 00:00:00.000,adventure-works.com
+180,Ms.,Nicky,E.,Chesnut,Full-Service Bike Store,adventure-works\michael9,nicky0@adventure-works.com,2645550164,2005-09-01 00:00:00.000,adventure-works.com
+181,Mr.,Michael,J.,Lee,Family Entertainment Center,adventure-works\pamela0,michael18@adventure-works.com,3965550139,2007-08-01 00:00:00.000,adventure-works.com
+182,Mr.,Stanley,A.,Alan,Another Bicycle Company,adventure-works\david8,stanley0@adventure-works.com,1565550126,2007-09-01 00:00:00.000,adventure-works.com
+183,Mr.,Yao-Qiang,Unknown,Cheng,This Area Sporting Goods,adventure-works\jillian0,yao-qiang0@adventure-works.com,3445550181,2006-07-01 00:00:00.000,adventure-works.com
+184,Ms.,Marjorie,M.,Lee,Go-cart and Bike Specialists,adventure-works\jillian0,marjorie0@adventure-works.com,3065550166,2006-07-01 00:00:00.000,adventure-works.com
+185,Mr.,Sandeep,Unknown,Kaliyath,Weekend Bike Tours,adventure-works\shu0,sandeep1@adventure-works.com,4955550113,2007-07-01 00:00:00.000,adventure-works.com
+186,Mr.,Pei,Unknown,Chow,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,7895550184,2007-09-01 00:00:00.000,adventure-works.com
+187,Mr.,Frank,Unknown,Campbell,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,4915550132,2005-09-01 00:00:00.000,adventure-works.com
+190,Mr.,Mark,Unknown,Lee,Racing Partners,adventure-works\josé1,mark5@adventure-works.com,3715550112,2007-09-01 00:00:00.000,adventure-works.com
+191,Ms.,Sandra,T.,Kitt,Non-Slip Pedal Company,adventure-works\josé1,sandra2@adventure-works.com,3035550117,2005-08-01 00:00:00.000,adventure-works.com
+192,Mr.,Hao,Unknown,Chen,Nuts and Bolts Mfg.,adventure-works\garrett1,hao1@adventure-works.com,1175550173,2005-08-01 00:00:00.000,adventure-works.com
+196,Ms.,Jolie,Unknown,Lenehan,Exhibition Showroom,adventure-works\jae0,jolie0@adventure-works.com,1115005550126,2007-07-01 00:00:00.000,adventure-works.com
+197,Ms.,Diane,F.,Krane,"Fabrikam Inc., West",adventure-works\michael9,diane4@adventure-works.com,2245550126,2006-09-01 00:00:00.000,adventure-works.com
+198,Mr.,Payton,P.,Benson,Field Trip Inc,adventure-works\michael9,payton0@adventure-works.com,5285550183,2005-11-01 00:00:00.000,adventure-works.com
+199,Mr.,Roger,Unknown,Lengel,Authorized Bike Sales and Rental,adventure-works\pamela0,roger1@adventure-works.com,9475550143,2007-08-01 00:00:00.000,adventure-works.com
+200,Ms.,Peggy,J.,Justice,Basic Bike Company,adventure-works\david8,peggy0@adventure-works.com,1705550189,2005-07-01 00:00:00.000,adventure-works.com
+201,Ms.,Edna,J.,Benson,Unsurpassed Bikes,adventure-works\jillian0,edna0@adventure-works.com,7895550189,2007-09-01 00:00:00.000,adventure-works.com
+202,Unknown,A.,Francesca,Leonetti,Two-Seater Bikes,adventure-works\jillian0,a0@adventure-works.com,6455550193,2007-09-01 00:00:00.000,adventure-works.com
+203,Ms.,Jean,Unknown,Jordan,Separate Parts Corporation,adventure-works\shu0,jean3@adventure-works.com,2075550129,2005-07-01 00:00:00.000,adventure-works.com
+204,Mr.,Ido,Unknown,Ben-Sachar,Traction Tire Company,adventure-works\linda3,ido0@adventure-works.com,9735550112,2005-07-01 00:00:00.000,adventure-works.com
+205,Mr.,Frank,Unknown,Mart¡nez,Rally Master Company Inc,adventure-works\shu0,frank5@adventure-works.com,1715550147,2007-07-01 00:00:00.000,adventure-works.com
+208,Mr.,Steve,Unknown,Masters,Professional Cyclists,adventure-works\josé1,steve2@adventure-works.com,1545550115,2005-08-01 00:00:00.000,adventure-works.com
+209,Mr.,Robert,E.,Jones,Purple Bicycle Company,adventure-works\josé1,robert6@adventure-works.com,5955550131,2005-08-01 00:00:00.000,adventure-works.com
+210,Mr.,Josh,Unknown,Barnhill,Gasless Cycle Shop,adventure-works\garrett1,josh0@adventure-works.com,5845550192,2005-08-01 00:00:00.000,adventure-works.com
+214,Ms.,Jennifer,J.,Maxham,Exclusive Bicycle Mart,adventure-works\jae0,jennifer1@adventure-works.com,1115005550175,2006-08-01 00:00:00.000,adventure-works.com
+217,Mr.,Chris,Unknown,Maxwell,City Manufacturing,adventure-works\pamela0,chris6@adventure-works.com,6425550187,2006-11-01 00:00:00.000,adventure-works.com
+218,Mr.,David,Unknown,Johnson,Sure & Reliable Sporting Goods,adventure-works\david8,david18@adventure-works.com,4765550139,2005-08-01 00:00:00.000,adventure-works.com
+219,Mr.,Brian,Unknown,Johnson,Extras Sporting Goods,adventure-works\jillian0,brian6@adventure-works.com,3205550134,2007-03-01 00:00:00.000,adventure-works.com
+220,Mr.,Robert,Unknown,Brown,Best o' Bikes,adventure-works\jillian0,robert5@adventure-works.com,5755550189,2007-07-01 00:00:00.000,adventure-works.com
+221,Ms.,Sandra,B.,Maynard,Bike Dealers Association,adventure-works\shu0,sandra4@adventure-works.com,9935550179,2005-07-01 00:00:00.000,adventure-works.com
+222,Mr.,Barry,Unknown,Johnson,Sample Bike Store,adventure-works\linda3,barry1@adventure-works.com,8585550140,2005-09-01 00:00:00.000,adventure-works.com
+223,Ms.,Joyce,Unknown,Jarvis,Paints and Solvents Company,adventure-works\shu0,joyce0@adventure-works.com,4585550179,2007-09-01 00:00:00.000,adventure-works.com
+226,Ms.,Vance,P.,Johns,Leisure Activities,adventure-works\josé1,vance0@adventure-works.com,1035550151,2006-08-01 00:00:00.000,adventure-works.com
+227,Ms.,Robin,M.,McGuigan,"Health Spa, Limited",adventure-works\josé1,robin0@adventure-works.com,4315550153,2005-07-01 00:00:00.000,adventure-works.com
+228,Ms.,Danielle,B.,Johnson,Home Town Bike Store,adventure-works\garrett1,danielle1@adventure-works.com,3565550190,2007-09-01 00:00:00.000,adventure-works.com
+232,Mr.,David,Unknown,Jaffe,Exceptional Cycle Services,adventure-works\jae0,david17@adventure-works.com,1115005550140,2007-07-01 00:00:00.000,adventure-works.com
+235,Ms.,Mary,Unknown,Alexander,Certified Bicycle Supply,adventure-works\pamela0,mary7@adventure-works.com,3445550133,2006-09-01 00:00:00.000,adventure-works.com
+236,Ms.,Lola,M.,McCarthy,Closeout Boutique,adventure-works\david8,lola0@adventure-works.com,1735550151,2006-08-01 00:00:00.000,adventure-works.com
+237,Ms.,Mary,K.,Browning,Client Discount Store,adventure-works\jillian0,mary5@adventure-works.com,6585550146,2006-08-01 00:00:00.000,adventure-works.com
+238,Ms.,Jodan,M.,Jacobson,A Great Bicycle Company,adventure-works\jillian0,jodan0@adventure-works.com,6525550189,2005-09-01 00:00:00.000,adventure-works.com
+239,Ms.,Jane,A.,McCarty,Bicycle Merchandise Warehouse,adventure-works\shu0,jane3@adventure-works.com,5295550195,2006-09-01 00:00:00.000,adventure-works.com
+240,Mr.,Jessie,E.,Valerio,Wire Baskets and Parts,adventure-works\linda3,jessie0@adventure-works.com,1035550179,2005-08-01 00:00:00.000,adventure-works.com
+241,Mr.,Eric,A.,Jacobsen,Vale Riding Supplies,adventure-works\shu0,eric5@adventure-works.com,7035550120,2007-07-01 00:00:00.000,adventure-works.com
+244,Mr.,Bronson,R.,Jacobs,Retail Discount Store,adventure-works\josé1,bronson0@adventure-works.com,6975550131,2008-06-01 00:00:00.000,adventure-works.com
+245,Mr.,James,L.,McCoy,Leather Seat Factory,adventure-works\josé1,james12@adventure-works.com,1915550151,2006-07-01 00:00:00.000,adventure-works.com
+246,Ms.,Esther,K.,Valle,Large Bike Shop,adventure-works\garrett1,esther0@adventure-works.com,4815550131,2006-07-01 00:00:00.000,adventure-works.com
+250,Ms.,Denean,J.,Ison,Express Bike Services,adventure-works\jae0,denean0@adventure-works.com,1115005550127,2007-08-01 00:00:00.000,adventure-works.com
+253,Mr.,Erik,Unknown,Ismert,Roving Sports,adventure-works\pamela0,erik0@adventure-works.com,1165550163,2006-07-01 00:00:00.000,adventure-works.com
+254,Mr.,Robert,M.,Bernacchi,Safe Cycles Shop,adventure-works\david8,robert4@adventure-works.com,4495550176,2006-09-01 00:00:00.000,adventure-works.com
+255,Mr.,Sunil,Unknown,Uppal,Swift Cycles,adventure-works\jillian0,sunil0@adventure-works.com,1845550187,2005-08-01 00:00:00.000,adventure-works.com
+256,Mr.,Richard,L.,Irwin,Rental Bikes,adventure-works\jillian0,richard4@adventure-works.com,3675550124,2005-08-01 00:00:00.000,adventure-works.com
+257,Mr.,Matthias,Unknown,Berndt,Number 1 Supply,adventure-works\shu0,matthias1@adventure-works.com,3845550169,2006-08-01 00:00:00.000,adventure-works.com
+258,Mr.,Sairaj,Unknown,Uddin,Quantity Discounts,adventure-works\linda3,sairaj1@adventure-works.com,7675550193,2006-08-01 00:00:00.000,adventure-works.com
+259,Mr.,Lucio,Unknown,Iallo,Highway Bike Shop,adventure-works\shu0,lucio0@adventure-works.com,1995550135,2005-08-01 00:00:00.000,adventure-works.com
+262,Ms.,Beth,Unknown,Inghram,General Industries,adventure-works\josé1,beth0@adventure-works.com,7185550152,2006-09-01 00:00:00.000,adventure-works.com
+263,Mr.,Timothy,B.,Burnett,Farthest Bike Store,adventure-works\josé1,timothy0@adventure-works.com,2515550172,2007-08-01 00:00:00.000,adventure-works.com
+264,Ms.,Phyllis,B.,Tuffield,Fasteners & Bolts Outlet,adventure-works\garrett1,phyllis3@adventure-works.com,2775550182,2007-08-01 00:00:00.000,adventure-works.com
+268,Mr.,Richard,A.,Byham,Channel Outlet,adventure-works\jae0,richard2@adventure-works.com,1115005550138,2007-09-01 00:00:00.000,adventure-works.com
+271,Mr.,Jared,L.,Bustamante,Alternative Vehicles,adventure-works\pamela0,jared0@adventure-works.com,1645550147,2005-11-01 00:00:00.000,adventure-works.com
+272,Mr.,Henry,L.,Campen,Metro Cycle Shop,adventure-works\david8,henry0@adventure-works.com,6355550126,2005-09-01 00:00:00.000,adventure-works.com
+273,Ms.,Christie,J.,Trujillo,A Typical Bike Shop,adventure-works\jillian0,christie0@adventure-works.com,6865550180,2005-09-01 00:00:00.000,adventure-works.com
+274,Ms.,Janet,J.,Gilliat,Active Systems,adventure-works\jillian0,janet2@adventure-works.com,5215550183,2006-07-01 00:00:00.000,adventure-works.com
+275,Mr.,Chris,Unknown,Cannon,Outdoor Sporting Goods,adventure-works\shu0,chris5@adventure-works.com,1185550131,2007-07-01 00:00:00.000,adventure-works.com
+276,Mr.,Michael John,R.,Troyer,Thrifty Parts and Sales,adventure-works\linda3,michaeljohn0@adventure-works.com,3085550175,2007-09-01 00:00:00.000,adventure-works.com
+277,Mr.,Guy,Unknown,Gilbert,The Bicycle Accessories Company,adventure-works\shu0,guy0@adventure-works.com,5835550198,2006-09-01 00:00:00.000,adventure-works.com
+280,Mr.,Frances,J.,Giglio,Standard Bikes,adventure-works\josé1,frances1@adventure-works.com,6925550136,2006-08-01 00:00:00.000,adventure-works.com
+281,Ms.,Suzana De Abreu,A.,Canuto,Petroleum Products Distributors,adventure-works\josé1,suzanadeabreu0@adventure-works.com,9905550141,2007-09-01 00:00:00.000,adventure-works.com
+282,Mr.,Billy,J.,Trent,Quick Parts and Service,adventure-works\garrett1,billy0@adventure-works.com,8825550115,2007-09-01 00:00:00.000,adventure-works.com
+286,Mr.,Leo,Unknown,Giakoumakis,Number One Bike Co.,adventure-works\jae0,leo0@adventure-works.com,1115005550169,2006-07-01 00:00:00.000,adventure-works.com
+287,Mr.,Grant,Unknown,Culbertson,Handy Bike Services,adventure-works\michael9,grant1@adventure-works.com,8595550173,2005-08-01 00:00:00.000,adventure-works.com
+288,Mr.,Robert,L.,Barker,Kickstand Sellers,adventure-works\michael9,robert3@adventure-works.com,2415550112,2006-12-01 00:00:00.000,adventure-works.com
+289,Ms.,Gabriel,L.,Bockenkamp,Moderately-Priced Bikes Store,adventure-works\pamela0,gabriel0@adventure-works.com,7635550145,2005-08-01 00:00:00.000,adventure-works.com
+290,Mr.,Scott,Unknown,Culp,Friendly Bike Shop,adventure-works\david8,scott3@adventure-works.com,1195550167,2006-07-01 00:00:00.000,adventure-works.com
+291,Mr.,Wayne,N.,Banack,Grand Bicycle Stores,adventure-works\jillian0,wayne0@adventure-works.com,6405550189,2006-09-01 00:00:00.000,adventure-works.com
+292,Mr.,Michael,Greg,Blythe,Grease and Oil Products Company,adventure-works\jillian0,michael11@adventure-works.com,1265550172,2005-07-01 00:00:00.000,adventure-works.com
+293,Mr.,Conor,Unknown,Cunningham,Fashionable Bikes and Accessories,adventure-works\shu0,conor0@adventure-works.com,1155550113,2005-09-01 00:00:00.000,adventure-works.com
+294,Mr.,Alberto,F.,Baltazar,Flawless Bike Shop,adventure-works\linda3,alberto0@adventure-works.com,7805550114,2005-09-01 00:00:00.000,adventure-works.com
+295,Mr.,Joseph,P.,Mitzner,Engineered Bike Systems,adventure-works\shu0,joseph4@adventure-works.com,1295550164,2007-09-01 00:00:00.000,adventure-works.com
+298,Mr.,Robert,Unknown,Mitosinka,City Cycling,adventure-works\josé1,robert10@adventure-works.com,2395550198,2007-09-01 00:00:00.000,adventure-works.com
+299,Mr.,Thierry,Unknown,D'Hers,Citywide Service and Repair,adventure-works\josé1,thierry1@adventure-works.com,6805550192,2006-07-01 00:00:00.000,adventure-works.com
+300,Mr.,Daniel,Unknown,Blanco,Nice Bikes,adventure-works\garrett1,daniel0@adventure-works.com,2215550167,2006-09-01 00:00:00.000,adventure-works.com
+304,Ms.,Linda,Unknown,Mitchell,Essential Bike Works,adventure-works\jae0,linda9@adventure-works.com,1115005550182,2007-09-01 00:00:00.000,adventure-works.com
+306,Mr.,Stephen,M.,Ayers,Work and Play Association,adventure-works\michael9,stephen1@adventure-works.com,8185550171,2006-09-01 00:00:00.000,adventure-works.com
+307,Ms.,Neva,M.,Mitchell,Riding Associates,adventure-works\pamela0,neva0@adventure-works.com,9925550134,2007-08-01 00:00:00.000,adventure-works.com
+308,Ms.,Megan,N.,Davis,Rugged Bikes,adventure-works\david8,megan1@adventure-works.com,8395550198,2007-09-01 00:00:00.000,adventure-works.com
+309,Mr.,John,Unknown,Arthur,The Gear Store,adventure-works\jillian0,john6@adventure-works.com,1495550113,2005-08-01 00:00:00.000,adventure-works.com
+310,Mr.,Frank,Unknown,Miller,Orange Bicycle Company,adventure-works\jillian0,frank6@adventure-works.com,1185550184,2006-08-01 00:00:00.000,adventure-works.com
+311,Sr.,Alvaro,Unknown,De Matos Miranda Filho,Principal Bike Company,adventure-works\shu0,alvaro0@adventure-works.com,5515550155,2006-09-01 00:00:00.000,adventure-works.com
+312,Mr.,Thomas,B.,Armstrong,Resale Services,adventure-works\linda3,thomas1@adventure-works.com,2265550146,2005-08-01 00:00:00.000,adventure-works.com
+313,Mr.,Dylan,Unknown,Miller,Metropolitan Manufacturing,adventure-works\shu0,dylan1@adventure-works.com,1405550192,2005-11-01 00:00:00.000,adventure-works.com
+316,Mr.,Ben,Unknown,Miller,Low Price Cycles,adventure-works\josé1,ben1@adventure-works.com,2075550167,2007-08-01 00:00:00.000,adventure-works.com
+317,Mr.,Jacob,N.,Dean,Finer Riding Supplies,adventure-works\josé1,jacob0@adventure-works.com,7675550151,2005-08-01 00:00:00.000,adventure-works.com
+318,Ms.,Ann,Unknown,Beebe,First-Rate Outlet,adventure-works\garrett1,ann0@adventure-works.com,2775550169,2005-08-01 00:00:00.000,adventure-works.com
+322,Mr.,Matthew,J.,Miller,Tachometers and Accessories,adventure-works\jae0,matthew5@adventure-works.com,1115005550176,2006-09-01 00:00:00.000,adventure-works.com
+323,Mr.,Jo,Unknown,Brown,Metro Bike Works,adventure-works\michael9,jo2@adventure-works.com,6895550130,2006-08-01 00:00:00.000,adventure-works.com
+325,Ms.,Virginia,L.,Miller,All Cycle Shop,adventure-works\pamela0,virginia0@adventure-works.com,9185550127,2006-07-01 00:00:00.000,adventure-works.com
+326,Mr.,Scott,Unknown,Gode,Year-Round Sports,adventure-works\david8,scott4@adventure-works.com,1645550145,2005-08-01 00:00:00.000,adventure-works.com
+327,Ms.,Caroline,A.,Vicknair,World of Bikes,adventure-works\jillian0,caroline0@adventure-works.com,6955550158,2006-09-01 00:00:00.000,adventure-works.com
+328,Mr.,Robert,R.,Vessa,Totes & Baskets Company,adventure-works\jillian0,robert13@adventure-works.com,5605550171,2005-08-01 00:00:00.000,adventure-works.com
+329,Unknown,Andreas,Unknown,Berglund,"Unicycles, Bicycles, and Tricycles",adventure-works\shu0,andreas1@adventure-works.com,7955550116,2005-08-01 00:00:00.000,adventure-works.com
+330,Mr.,Mete,Unknown,Goktepe,The New Bike Store,adventure-works\linda3,mete0@adventure-works.com,6375550120,2005-12-01 00:00:00.000,adventure-works.com
+331,Ms.,Wanda,F.,Vernon,Technical Parts Manufacturing,adventure-works\shu0,wanda0@adventure-works.com,4335550168,2007-07-01 00:00:00.000,adventure-works.com
+334,Ms.,Dora,P.,Verdad,Retreat Inn,adventure-works\josé1,dora0@adventure-works.com,1555550140,2006-08-01 00:00:00.000,adventure-works.com
+335,Mr.,John,M.,Berger,Scratch-Resistant Finishes Company,adventure-works\josé1,john10@adventure-works.com,1565550111,2005-08-01 00:00:00.000,adventure-works.com
+336,Mr.,Brian,R,Goldstein,Primary Bike Distributors,adventure-works\garrett1,brian4@adventure-works.com,4955550161,2005-08-01 00:00:00.000,adventure-works.com
+340,Mr.,Raja,D.,Venugopal,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1115005550195,2006-09-01 00:00:00.000,adventure-works.com
+343,Ms.,Patricia,M.,Vasquez,Mail-Order Outlet,adventure-works\pamela0,patricia2@adventure-works.com,4905550132,2006-08-01 00:00:00.000,adventure-works.com
+344,Ms.,Karren,K.,Burkhardt,Fifth Bike Store,adventure-works\david8,karren0@adventure-works.com,6525550132,2005-07-01 00:00:00.000,adventure-works.com
+345,Ms.,Abigail,J.,Gonzalez,Genial Bike Associates,adventure-works\jillian0,abigail0@adventure-works.com,1215550139,2006-08-01 00:00:00.000,adventure-works.com
+346,Mr.,Ranjit,Rudra,Varkey Chudukatil,Great Bicycle Supply,adventure-works\jillian0,ranjit1@adventure-works.com,8105550160,2005-08-01 00:00:00.000,adventure-works.com
+347,Ms.,Ingrid,K.,Burkhardt,Bike Universe,adventure-works\shu0,ingrid0@adventure-works.com,8575550187,2005-08-01 00:00:00.000,adventure-works.com
+348,Mr.,Oscar,L.,Alpuerto,Bold Bike Accessories,adventure-works\linda3,oscar0@adventure-works.com,8555550174,2005-08-01 00:00:00.000,adventure-works.com
+349,Mr.,Gary,T,Vargas,Exercise Center,adventure-works\shu0,gary6@adventure-works.com,1125550176,2006-09-01 00:00:00.000,adventure-works.com
+352,Mr.,Shane,S.,Kim,Twelfth Bike Store,adventure-works\josé1,shane2@adventure-works.com,1555550149,2006-08-01 00:00:00.000,adventure-works.com
+353,Ms.,Joan,M.,Campbell,Two-Wheeled Transit Company,adventure-works\josé1,joan0@adventure-works.com,7005550155,2005-08-01 00:00:00.000,adventure-works.com
+354,Mr.,Maxwell,J.,Amland,Serious Cycles,adventure-works\garrett1,maxwell0@adventure-works.com,6145550134,2005-08-01 00:00:00.000,adventure-works.com
+358,Mr.,Joe,Unknown,Kim,Mail Market,adventure-works\jae0,joe1@adventure-works.com,1115005550144,2007-08-01 00:00:00.000,adventure-works.com
+360,Ms.,Ramona,J.,Antrim,Novelty Bikes,adventure-works\michael9,ramona0@adventure-works.com,3275550148,2007-08-01 00:00:00.000,adventure-works.com
+361,Ms.,Karan,Unknown,Khanna,Fitness Supplies,adventure-works\pamela0,karan1@adventure-works.com,3905550150,2007-08-01 00:00:00.000,adventure-works.com
+362,Ms.,Sharon,A.,Crow,Grand Cycle Store,adventure-works\david8,sharon1@adventure-works.com,8895550176,2007-08-01 00:00:00.000,adventure-works.com
+363,Mr.,Chris,Unknown,Ashton,Immense Manufacturing Company,adventure-works\jillian0,chris3@adventure-works.com,5565550145,2007-08-01 00:00:00.000,adventure-works.com
+364,Mr.,Imtiaz,Unknown,Khan,District Mall,adventure-works\jillian0,imtiaz0@adventure-works.com,2495550179,2005-08-01 00:00:00.000,adventure-works.com
+365,Mr.,Jack,Unknown,Creasey,Distinctive Store,adventure-works\shu0,jack2@adventure-works.com,5395550182,2005-09-01 00:00:00.000,adventure-works.com
+366,Ms.,Teresa,Unknown,Atkinson,Extended Bike Sales,adventure-works\linda3,teresa0@adventure-works.com,1295550110,2005-09-01 00:00:00.000,adventure-works.com
+367,Ms.,Tammy,J.,Khan,Brown Bicycle Company,adventure-works\shu0,tammy0@adventure-works.com,1455550166,2005-09-01 00:00:00.000,adventure-works.com
+370,Ms.,Elizabeth,Unknown,Keyser,Acceptable Sales & Service,adventure-works\josé1,elizabeth2@adventure-works.com,6565550173,2005-08-01 00:00:00.000,adventure-works.com
+371,Mr.,Bruno,Unknown,Costa Da Silva,Custom Sales and Service,adventure-works\josé1,bruno0@adventure-works.com,1405550143,2005-08-01 00:00:00.000,adventure-works.com
+372,Ms.,Katherine,K.,Swan,Top Bike Market,adventure-works\garrett1,katherine1@adventure-works.com,4215550192,2007-09-01 00:00:00.000,adventure-works.com
+376,Ms.,Mary,R.,Kesslep,Commerce Bicycle Specialists,adventure-works\jae0,mary8@adventure-works.com,1115005550146,2006-08-01 00:00:00.000,adventure-works.com
+377,Mr.,Marlin,M.,Coriell,Grand Sport Boutique,adventure-works\michael9,marlin0@adventure-works.com,9415550155,2006-08-01 00:00:00.000,adventure-works.com
+379,Mr.,Kevin,Unknown,Kennedy,Fad Outlet,adventure-works\pamela0,kevin4@adventure-works.com,2755550179,2006-09-01 00:00:00.000,adventure-works.com
+380,Ms.,Eva,Unknown,Corets,First Department Stores,adventure-works\david8,eva0@adventure-works.com,5425550164,2006-07-01 00:00:00.000,adventure-works.com
+381,Ms.,Julie,Unknown,Taft-Rider,Bicycle Lines Distributors,adventure-works\jillian0,julie1@adventure-works.com,1455550194,2006-08-01 00:00:00.000,adventure-works.com
+382,Mr.,Robert,Unknown,Kelly,Beneficial Exercises and Activities,adventure-works\jillian0,robert7@adventure-works.com,5105550123,2006-09-01 00:00:00.000,adventure-works.com
+383,Mr.,Scott,Unknown,Cooper,Vehicle Shop,adventure-works\shu0,scott2@adventure-works.com,7735550182,2005-10-01 00:00:00.000,adventure-works.com
+384,Mr.,Clarence,R.,Tatman,Sparkling Paint and Finishes,adventure-works\linda3,clarence0@adventure-works.com,7875550128,2005-08-01 00:00:00.000,adventure-works.com
+385,Mr.,John,Unknown,Kelly,Sturdy Toys,adventure-works\shu0,john22@adventure-works.com,3305550116,2005-08-01 00:00:00.000,adventure-works.com
+388,Mr.,Victor,A.,Kelley,Road Way Sales and Rental,adventure-works\josé1,victor0@adventure-works.com,1125550195,2006-12-01 00:00:00.000,adventure-works.com
+389,Ms.,Dorothy,J.,Contreras,Sixth Bike Store,adventure-works\josé1,dorothy0@adventure-works.com,4285550176,2005-08-01 00:00:00.000,adventure-works.com
+390,Mr.,Mike,M.,Taylor,Plastic Parts Company,adventure-works\garrett1,mike6@adventure-works.com,2045550189,2005-11-01 00:00:00.000,adventure-works.com
+394,Ms.,Bonnie,Unknown,Kearney,Little Sports Center,adventure-works\jae0,bonnie1@adventure-works.com,1115005550116,2007-08-01 00:00:00.000,adventure-works.com
+395,Ms.,June,B.,Brunner,Online Bike Sellers,adventure-works\michael9,june0@adventure-works.com,2495550172,2006-09-01 00:00:00.000,adventure-works.com
+397,Mr.,Sandeep,Unknown,Katyal,Capable Sales and Service,adventure-works\pamela0,sandeep2@adventure-works.com,9285550117,2005-07-01 00:00:00.000,adventure-works.com
+398,Ms.,Shirley,R.,Bruner,Commendable Bikes,adventure-works\david8,shirley0@adventure-works.com,3835550155,2006-07-01 00:00:00.000,adventure-works.com
+399,Mr.,Chad,J.,Tedford,Big Cycle Mall,adventure-works\jillian0,chad1@adventure-works.com,5885550128,2007-08-01 00:00:00.000,adventure-works.com
+400,Mr.,Peter,Unknown,Houston,Local Sales and Rental,adventure-works\jillian0,peter3@adventure-works.com,6325550171,2007-09-01 00:00:00.000,adventure-works.com
+401,Mr.,Tom,H,Johnston,Brightwork Company,adventure-works\shu0,tom1@adventure-works.com,8835550177,2005-08-01 00:00:00.000,adventure-works.com
+402,Ms.,Marian,M.,Berch,Pro Sporting Goods,adventure-works\linda3,marian0@adventure-works.com,6405550198,2005-08-01 00:00:00.000,adventure-works.com
+403,Ms.,Juanita,J.,Holman,Affordable Sports Equipment,adventure-works\shu0,juanita0@adventure-works.com,9965550196,2005-08-01 00:00:00.000,adventure-works.com
+406,Mr.,Eddie,M.,Holmes,The Commissary,adventure-works\josé1,eddie0@adventure-works.com,5705550199,2006-12-01 00:00:00.000,adventure-works.com
+407,Mr.,Robert,A.,Avalos,Workout Emporium,adventure-works\josé1,robert2@adventure-works.com,6655550198,2007-09-01 00:00:00.000,adventure-works.com
+408,Mr.,Alexander,J.,Berger,Odometers and Accessories Company,adventure-works\garrett1,alexander0@adventure-works.com,5195550151,2007-09-01 00:00:00.000,adventure-works.com
+412,Ms.,Jean,J.,Holloway,Leisure Clearing House,adventure-works\jae0,jean2@adventure-works.com,1115005550181,2006-08-01 00:00:00.000,adventure-works.com
+415,Mr.,Greg,Unknown,Chapman,Imaginary Toys,adventure-works\pamela0,greg1@adventure-works.com,7085550169,2006-07-01 00:00:00.000,adventure-works.com
+416,Ms.,Angela,Unknown,Barbariol,Impromptu Trips,adventure-works\david8,angela1@adventure-works.com,1345550182,2006-07-01 00:00:00.000,adventure-works.com
+417,Ms.,Ruth,A.,Choin,Genuine Bike Shop,adventure-works\jillian0,ruth1@adventure-works.com,2735550181,2005-09-01 00:00:00.000,adventure-works.com
+418,Mr.,Lee,J.,Chapla,Good Bike Shop,adventure-works\jillian0,lee0@adventure-works.com,2235550184,2005-09-01 00:00:00.000,adventure-works.com
+419,Mr.,Darrell,M.,Banks,Exertion Activities Club,adventure-works\shu0,darrell0@adventure-works.com,8165550118,2005-09-01 00:00:00.000,adventure-works.com
+420,Mr.,Anthony,Unknown,Chor,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,4295550145,2007-09-01 00:00:00.000,adventure-works.com
+421,Mr.,Forrest,J.,Chandler,Fitness Cycling,adventure-works\shu0,forrest0@adventure-works.com,4485550179,2007-07-01 00:00:00.000,adventure-works.com
+424,Mr.,Eli,Unknown,Bowen,Bikes for Two,adventure-works\josé1,eli0@adventure-works.com,3715550143,2006-09-01 00:00:00.000,adventure-works.com
+425,Mr.,Stephen,Yuan,Jiang,Bikes for Kids and Adults,adventure-works\josé1,stephen3@adventure-works.com,9105550116,2006-07-01 00:00:00.000,adventure-works.com
+426,Mr.,Dirk,J.,Bruno,Custom Accessories Company,adventure-works\garrett1,dirk0@adventure-works.com,8175550114,2006-08-01 00:00:00.000,adventure-works.com
+430,Sr.,Gustavo,Unknown,Camargo,Uttermost Bike Shop,adventure-works\jae0,gustavo1@adventure-works.com,1115005550118,2006-08-01 00:00:00.000,adventure-works.com
+431,Mr.,Douglas,A.,Baldwin,Small Cycle Store,adventure-works\michael9,douglas1@adventure-works.com,5835550130,2005-07-01 00:00:00.000,adventure-works.com
+433,Ms.,Lindsey,R.,Camacho,Thorough Parts and Repair Services,adventure-works\pamela0,lindsey0@adventure-works.com,8275550143,2005-08-01 00:00:00.000,adventure-works.com
+434,Mr.,James,B.,Bailey,Road-Way Mart,adventure-works\david8,james3@adventure-works.com,2345550112,2006-10-01 00:00:00.000,adventure-works.com
+435,Ms.,Carol,B.,Elliott,Satin Finish Company,adventure-works\jillian0,carol2@adventure-works.com,8475550151,2006-08-01 00:00:00.000,adventure-works.com
+436,Ms.,Barbara,J.,Calone,Sheet Metal Manufacturing,adventure-works\jillian0,barbara2@adventure-works.com,1455550152,2006-08-01 00:00:00.000,adventure-works.com
+437,Ms.,Megan,E.,Burke,Professional Cycle Store,adventure-works\shu0,megan0@adventure-works.com,1485550149,2006-07-01 00:00:00.000,adventure-works.com
+438,Mr.,Cory,K.,Booth,Remarkable Bike Store,adventure-works\linda3,cory0@adventure-works.com,1215550157,2005-12-01 00:00:00.000,adventure-works.com
+439,Ms.,Shannon,P.,Elliott,Regional Manufacturing,adventure-works\shu0,shannon0@adventure-works.com,4255550158,2005-09-01 00:00:00.000,adventure-works.com
+442,Ms.,Jauna,E.,Elson,Original Bicycle Supply Company,adventure-works\josé1,jauna0@adventure-works.com,1855550190,2005-07-01 00:00:00.000,adventure-works.com
+443,Sra.,Janaina Barreiro Gambaro,Unknown,Bueno,Courteous Bicycle Specialists,adventure-works\josé1,janainabarreirogambaro0@adventure-works.com,4765550184,2007-09-01 00:00:00.000,adventure-works.com
+444,Mr.,Shaun,Unknown,Beasley,Finer Cycle Shop,adventure-works\garrett1,shaun0@adventure-works.com,3965550187,2006-08-01 00:00:00.000,adventure-works.com
+448,Mr.,Terry,Unknown,Eminhizer,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1115005550176,2007-09-01 00:00:00.000,adventure-works.com
+451,Mr.,John,Unknown,Emory,Roadway Bike Emporium,adventure-works\pamela0,john16@adventure-works.com,6915550149,2007-07-01 00:00:00.000,adventure-works.com
+452,Ms.,Olga,J.,Trau,A Cycle Shop,adventure-works\david8,olga0@adventure-works.com,3985550167,2007-07-01 00:00:00.000,adventure-works.com
+453,Mr.,Jon,Unknown,Ganio,Unique Bikes,adventure-works\jillian0,jon0@adventure-works.com,6725550112,2005-09-01 00:00:00.000,adventure-works.com
+454,Ms.,Gail,Unknown,Erickson,Sleek Bikes ,adventure-works\jillian0,gail1@adventure-works.com,8345550132,2007-09-01 00:00:00.000,adventure-works.com
+455,Mr.,James,R.,Tran,Timely Shipping Service,adventure-works\shu0,james15@adventure-works.com,7405550159,2007-09-01 00:00:00.000,adventure-works.com
+456,Mr.,Michael,Unknown,Galos,Riding Excursions,adventure-works\linda3,michael15@adventure-works.com,9125550149,2006-01-01 00:00:00.000,adventure-works.com
+457,Mr.,Mark,B,Erickson,Retail Sporting Equipment,adventure-works\shu0,mark2@adventure-works.com,9625550112,2006-09-01 00:00:00.000,adventure-works.com
+460,Ms.,Martha,R.,Espinoza,Price-Cutter Discount Bikes,adventure-works\josé1,martha0@adventure-works.com,7535550179,2005-09-01 00:00:00.000,adventure-works.com
+461,Mr.,Glenn,J.,Track,Active Life Toys,adventure-works\josé1,glenn0@adventure-works.com,9075550170,2006-09-01 00:00:00.000,adventure-works.com
+462,Mr.,Bob,Unknown,Gage,General Riding Supplies,adventure-works\garrett1,bob1@adventure-works.com,9625550175,2007-02-01 00:00:00.000,adventure-works.com
+466,Sra.,Janeth,Unknown,Esteves,Central Bicycle Specialists,adventure-works\jae0,janeth1@adventure-works.com,1115005550136,2007-09-01 00:00:00.000,adventure-works.com
+468,Mr.,Paul,J.,Fulton,Blue Bicycle Company,adventure-works\michael9,paul3@adventure-works.com,4925550146,2006-08-01 00:00:00.000,adventure-works.com
+469,Ms.,Twanna,R.,Evans,Vast Bike Sales and Rental,adventure-works\pamela0,twanna0@adventure-works.com,5545550124,2005-08-01 00:00:00.000,adventure-works.com
+470,Ms.,Delia,B.,Toone,Wingtip Toys,adventure-works\david8,delia0@adventure-works.com,3285550192,2007-09-01 00:00:00.000,adventure-works.com
+471,Mr.,John,Unknown,Ford,Social Activities Club,adventure-works\jillian0,john19@adventure-works.com,5965550153,2005-08-01 00:00:00.000,adventure-works.com
+472,Ms.,Ann,R.,Evans,Summer Sports Place,adventure-works\jillian0,ann1@adventure-works.com,2525550127,2006-09-01 00:00:00.000,adventure-works.com
+473,Ms.,Kay,E.,Krane,Racing Toys,adventure-works\shu0,kay0@adventure-works.com,7315550187,2005-09-01 00:00:00.000,adventure-works.com
+474,Mr.,Mihail,Unknown,Frintu,Retail Cycle Shop,adventure-works\linda3,mihail1@adventure-works.com,7775550163,2006-09-01 00:00:00.000,adventure-works.com
+475,Mr.,John,Unknown,Evans,Real Sporting Goods,adventure-works\shu0,john17@adventure-works.com,5815550172,2006-07-01 00:00:00.000,adventure-works.com
+478,Ms.,Ruby Sue,R.,Styles,Major Cycling,adventure-works\josé1,rubysue0@adventure-works.com,5125550122,2005-08-01 00:00:00.000,adventure-works.com
+479,Ms.,Lori,Unknown,Kane,General Supplies,adventure-works\josé1,lori2@adventure-works.com,7655550141,2006-08-01 00:00:00.000,adventure-works.com
+480,Ms.,Susan,E.,French,General Bike Corporation,adventure-works\garrett1,susan3@adventure-works.com,9945550194,2005-07-01 00:00:00.000,adventure-works.com
+484,Mr.,Gary,J.,Suess,Downhill Bicycle Specialists,adventure-works\jae0,gary5@adventure-works.com,1115005550199,2006-08-01 00:00:00.000,adventure-works.com
+487,Ms.,Ruth,J.,Suffin,Bike Experts,adventure-works\pamela0,ruth2@adventure-works.com,9245550195,2006-08-01 00:00:00.000,adventure-works.com
+488,Ms.,Margaret,J.,Smith,Bicycle Accessories and Kits,adventure-works\david8,margaret0@adventure-works.com,9595550151,2009-05-16 16:33:33.107,adventure-works.com
+489,Ms.,Dorothy,J.,Fox,Cash & Carry Bikes,adventure-works\jillian0,dorothy1@adventure-works.com,1915550198,2006-09-01 00:00:00.000,adventure-works.com
+490,Ms.,Elizabeth,J.,Sullivan,Extraordinary Bike Works,adventure-works\jillian0,elizabeth4@adventure-works.com,3065550112,2006-09-01 00:00:00.000,adventure-works.com
+491,Ms.,Frances,B.,Adams,Area Bike Accessories,adventure-works\shu0,frances0@adventure-works.com,9915550183,2009-05-16 16:33:33.090,adventure-works.com
+492,Mr.,Garth,Unknown,Fort,Basic Sports Equipment,adventure-works\linda3,garth0@adventure-works.com,7685550125,2005-08-01 00:00:00.000,adventure-works.com
+493,Mr.,Michael,Unknown,Sullivan,Valley Bicycle Distributors,adventure-works\shu0,michael24@adventure-works.com,3235550113,2006-11-01 00:00:00.000,adventure-works.com
+496,Ms.,Marcia,J.,Sultan,Top Sports Supply,adventure-works\josé1,marcia0@adventure-works.com,6135550116,2006-07-01 00:00:00.000,adventure-works.com
+497,Ms.,Amy,E.,Alberts,Valley Toy Store,adventure-works\josé1,amy1@adventure-works.com,7275550115,2006-09-01 00:00:00.000,adventure-works.com
+498,Ms.,Kelly,Unknown,Focht,Quick Delivery Service,adventure-works\garrett1,kelly0@adventure-works.com,2725550123,2005-09-01 00:00:00.000,adventure-works.com
+502,Mr.,Krishna,Unknown,Sunkammurali,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1115005550177,2006-09-01 00:00:00.000,adventure-works.com
+504,Ms.,Mae,M.,Black,Historic Bicycle Sales,adventure-works\michael9,mae1@adventure-works.com,2645550143,2005-07-01 00:00:00.000,adventure-works.com
+505,Mr.,Brad,Unknown,Sutton,Honest Repair Service,adventure-works\pamela0,brad0@adventure-works.com,6885550115,2007-07-01 00:00:00.000,adventure-works.com
+506,Mr.,François,Unknown,Ferrier,Great Bikes ,adventure-works\david8,françois1@adventure-works.com,5715550128,2005-07-01 00:00:00.000,adventure-works.com
+507,Mr.,Mary,Unknown,Bishop,Global Sporting Goods,adventure-works\jillian0,mary4@adventure-works.com,1765550136,2005-07-01 00:00:00.000,adventure-works.com
+508,Mr.,Martin,J.,Svoboda,Designer Department Stores,adventure-works\jillian0,martin1@adventure-works.com,1325550149,2005-07-01 00:00:00.000,adventure-works.com
+509,Mr.,Robert,E.,Ahlering,Fun Toys and Bikes,adventure-works\shu0,robert1@adventure-works.com,6785550175,2007-09-01 00:00:00.000,adventure-works.com
+510,Mr.,Jimmy,Unknown,Bischoff,World Bike Discount Store,adventure-works\linda3,jimmy1@adventure-works.com,9925550111,2005-07-01 00:00:00.000,adventure-works.com
+511,Mr.,Abraham,L.,Swearengin,Wheel Gallery,adventure-works\shu0,abraham0@adventure-works.com,9265550136,2005-07-01 00:00:00.000,adventure-works.com
+514,Mr.,Ryan,Unknown,Calafato,Retail Mall,adventure-works\josé1,ryan1@adventure-works.com,7265550155,2005-07-01 00:00:00.000,adventure-works.com
+515,Mr.,Dragan,Unknown,Tomic,Rural Bicycle Supply,adventure-works\josé1,dragan1@adventure-works.com,8335550167,2005-07-01 00:00:00.000,adventure-works.com
+516,Mr.,Thomas,R.,Michaels,Seats and Saddles Company,adventure-works\garrett1,thomas2@adventure-works.com,1625550174,2006-11-01 00:00:00.000,adventure-works.com
+520,Ms.,Mari,B.,Caldwell,Metro Metals Co.,adventure-works\jae0,mari0@adventure-works.com,1115005550118,2007-08-01 00:00:00.000,adventure-works.com
+523,Ms.,Mary,M.,Gimmi,Futuristic Sport Distributors,adventure-works\shu0,mary6@adventure-works.com,1495550196,2006-07-01 00:00:00.000,adventure-works.com
+526,Mr.,David,L.,Givens,Finer Sales and Service,adventure-works\josé1,david15@adventure-works.com,6055550111,2005-12-01 00:00:00.000,adventure-works.com
+527,Ms.,Diane,Unknown,Tibbott,Fun Times Club,adventure-works\shu0,diane5@adventure-works.com,8475550184,2005-08-01 00:00:00.000,adventure-works.com
+528,Ms.,Helen,M.,Meyer,Alpine Ski House,adventure-works\linda3,helen2@adventure-works.com,5195550112,2005-11-01 00:00:00.000,adventure-works.com
+529,Ms.,Jeanie,R.,Glenn,Big-Time Bike Store,adventure-works\shu0,jeanie0@adventure-works.com,6695550149,2006-08-01 00:00:00.000,adventure-works.com
+532,Ms.,Diane,R.,Glimp,The Showroom,adventure-works\josé1,diane3@adventure-works.com,8985550137,2005-11-01 00:00:00.000,adventure-works.com
+533,Ms.,Yuping,Unknown,Tian,Tenth Bike Store,adventure-works\josé1,yuping0@adventure-works.com,7445550123,2005-08-01 00:00:00.000,adventure-works.com
+534,Mr.,Stephen,A.,Mew,Recommended Bicycles,adventure-works\garrett1,stephen4@adventure-works.com,3995550114,2005-11-01 00:00:00.000,adventure-works.com
+538,Mr.,John,R.,Brooks,Prosperous Tours,adventure-works\jae0,john12@adventure-works.com,1115005550179,2006-07-01 00:00:00.000,adventure-works.com
+541,Mr.,Willie,P.,Brooks,Nonskid Tire Company,adventure-works\pamela0,willie0@adventure-works.com,5255550174,2005-11-01 00:00:00.000,adventure-works.com
+542,Mr.,Andrew,P.,Kobylinski,Finer Parts Shop,adventure-works\david8,andrew5@adventure-works.com,1295550185,2005-12-01 00:00:00.000,adventure-works.com
+543,Mr.,R. Morgan,L.,Mendoza,Friendly Neighborhood Bikes,adventure-works\jillian0,rmorgan0@adventure-works.com,9635550146,2007-06-01 00:00:00.000,adventure-works.com
+544,Mr.,Jay,Unknown,Adams,Valley Bicycle Specialists,adventure-works\jillian0,jay1@adventure-works.com,1585550142,2009-05-16 16:33:33.123,adventure-works.com
+545,Mr.,Christian,Unknown,Kleinerman,Finish and Sealant Products,adventure-works\shu0,christian1@adventure-works.com,3625550177,2005-09-01 00:00:00.000,adventure-works.com
+546,Mr.,Anton,Unknown,Kirilov,Field Trip Store,adventure-works\linda3,anton0@adventure-works.com,6085550162,2006-08-01 00:00:00.000,adventure-works.com
+547,Ms.,Gladys,F.,Mendiola,Curbside Sporting Goods,adventure-works\shu0,gladys0@adventure-works.com,5355550189,2006-08-01 00:00:00.000,adventure-works.com
+550,Ms.,Raquel,Unknown,Mello,Remote Bicycle Specialists,adventure-works\josé1,raquel0@adventure-works.com,7235550124,2006-09-01 00:00:00.000,adventure-works.com
+551,Mr.,Samuel,N.,Agcaoili,Vinyl and Plastic Goods Corporation,adventure-works\josé1,samuel0@adventure-works.com,5545550110,2005-09-01 00:00:00.000,adventure-works.com
+552,Mr.,Tim,Unknown,Kim,Consolidated Messenger,adventure-works\garrett1,tim0@adventure-works.com,2445550115,2007-08-01 00:00:00.000,adventure-works.com
+556,Ms.,Nancy,A.,McPhearson,Variety Cycling,adventure-works\jae0,nancy3@adventure-works.com,1115005550195,2007-08-01 00:00:00.000,adventure-works.com
+559,Ms.,Nkenge,Unknown,McLin,Some Discount Store,adventure-works\pamela0,nkenge0@adventure-works.com,1585550123,2005-08-01 00:00:00.000,adventure-works.com
+560,Mr.,Paul,L.,Alcorn,Major Sport Suppliers,adventure-works\david8,paul2@adventure-works.com,3315550162,2007-07-01 00:00:00.000,adventure-works.com
+561,Mr.,Marvin,N.,Allen,Mountain Toy Store,adventure-works\jillian0,marvin0@adventure-works.com,4475550110,2005-12-01 00:00:00.000,adventure-works.com
+562,Ms.,Yvonne,Unknown,McKay,Practical Bike Supply Company,adventure-works\jillian0,yvonne1@adventure-works.com,6235550144,2005-09-01 00:00:00.000,adventure-works.com
+563,Mr.,Sean,P.,Jacobson,Systematic Sales,adventure-works\shu0,sean2@adventure-works.com,5555550162,2007-08-01 00:00:00.000,adventure-works.com
+564,Ms.,Michelle,Unknown,Alexander,Imported and Domestic Cycles,adventure-works\linda3,michelle0@adventure-works.com,1155550175,2007-05-01 00:00:00.000,adventure-works.com
+565,Mr.,Richard,M.,Bentley,Metallic Paint and Overcoat Co,adventure-works\shu0,richard0@adventure-works.com,9115550153,2007-05-01 00:00:00.000,adventure-works.com
+568,Mr.,Curtis,P.,Howard,Economy Center,adventure-works\josé1,curtis0@adventure-works.com,5555550162,2005-08-01 00:00:00.000,adventure-works.com
+569,Mr.,Cecil,J.,Allison,Designated Distributors,adventure-works\josé1,cecil0@adventure-works.com,6995550155,2005-08-01 00:00:00.000,adventure-works.com
+570,Mr.,Gregory,F.,Alderson,Family's Favorite Bike Shop,adventure-works\garrett1,gregory0@adventure-works.com,9685550153,2006-08-01 00:00:00.000,adventure-works.com
+574,Ms.,Janice,K.,Hows,Area Sheet Metal Supply,adventure-works\jae0,janice1@adventure-works.com,1115005550119,2006-08-01 00:00:00.000,adventure-works.com
+577,Mr.,George,M.,Huckaby,Synthetic Materials Manufacturing,adventure-works\pamela0,george1@adventure-works.com,8515550127,2006-01-01 00:00:00.000,adventure-works.com
+578,Ms.,Carolyn,Unknown,Farino,The Bike Shop,adventure-works\david8,carolyn0@adventure-works.com,9575550125,2005-07-01 00:00:00.000,adventure-works.com
+579,Ms.,Kim,Unknown,Abercrombie,Riders Company,adventure-works\jillian0,kim2@adventure-works.com,3345550137,2009-05-16 16:33:33.077,adventure-works.com
+580,Mr.,Joshua,J.,Huff,Rural Sales and Service,adventure-works\jillian0,joshua0@adventure-works.com,1905550186,2006-03-01 00:00:00.000,adventure-works.com
+581,Ms.,Geri,P.,Farrell,Safe Toys,adventure-works\shu0,geri0@adventure-works.com,3295550183,2005-09-01 00:00:00.000,adventure-works.com
+582,Ms.,Catherine,R.,Abel,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,7475550171,2009-05-16 16:33:33.077,adventure-works.com
+583,Ms.,Laura,C.,Steele,Professional Containers and Packaging Co.,adventure-works\shu0,laura3@adventure-works.com,7415550173,2006-08-01 00:00:00.000,adventure-works.com
+586,Ms.,Shanay,B.,Steelman,One Bike Company,adventure-works\josé1,shanay0@adventure-works.com,7975550118,2006-09-01 00:00:00.000,adventure-works.com
+587,Ms.,Rhoda,J.,Finley,Our Sporting Goods Store,adventure-works\josé1,rhoda0@adventure-works.com,9205550191,2006-09-01 00:00:00.000,adventure-works.com
+588,Mr.,Pat,A.,Chambers,General Cycle Storehouse,adventure-works\garrett1,pat1@adventure-works.com,1275550124,2005-09-01 00:00:00.000,adventure-works.com
+592,Mr.,Stefano,Unknown,Stefani,Cycling Goods,adventure-works\jae0,stefano0@adventure-works.com,1115005550115,2006-08-01 00:00:00.000,adventure-works.com
+595,Mr.,Alan,Unknown,Steiner,Cycle Clearance,adventure-works\pamela0,alan4@adventure-works.com,7925550194,2007-09-01 00:00:00.000,adventure-works.com
+596,Ms.,Kathie,Unknown,Flood,Coho Sports,adventure-works\david8,kathie1@adventure-works.com,6275550192,2006-08-01 00:00:00.000,adventure-works.com
+597,Mr.,Bob,Unknown,Hodges,All Seasons Sports Supply,adventure-works\jillian0,bob2@adventure-works.com,1295550120,2007-07-01 00:00:00.000,adventure-works.com
+598,Mr.,Derik,Unknown,Stenerson,Black Bicycle Company,adventure-works\jillian0,derik0@adventure-works.com,4415550144,2007-02-01 00:00:00.000,adventure-works.com
+599,Mr.,Raul,E.,Casts,Westside Plaza,adventure-works\shu0,raul0@adventure-works.com,3625550162,2007-07-01 00:00:00.000,adventure-works.com
+600,Ms.,Holly,J.,Holt,Strenuous Exercise Shop,adventure-works\linda3,holly1@adventure-works.com,6545550150,2007-07-01 00:00:00.000,adventure-works.com
+601,Mr.,Vassar,J.,Stern,Transport Bikes,adventure-works\shu0,vassar0@adventure-works.com,3285550123,2007-09-01 00:00:00.000,adventure-works.com
+604,Ms.,Wathalee,R.,Steuber,Sellers of Cycles,adventure-works\pamela0,wathalee0@adventure-works.com,5175550120,2007-09-01 00:00:00.000,adventure-works.com
+605,Mr.,Matthew,J.,Cavallari,Outstanding Cycles,adventure-works\david8,matthew1@adventure-works.com,6955550161,2007-08-01 00:00:00.000,adventure-works.com
+606,Ms.,Helge,Unknown,Hoeing,Little Bicycle Supply Shop,adventure-works\jillian0,helge0@adventure-works.com,8505550198,2007-08-01 00:00:00.000,adventure-works.com
+607,Ms.,Alice,M.,Steiner,Maintenance and Repair for Bicycles,adventure-works\jillian0,alice4@adventure-works.com,3555550180,2007-08-01 00:00:00.000,adventure-works.com
+608,Mr.,Steven,B.,Brown,Golf and Cycle Store,adventure-works\shu0,steven1@adventure-works.com,2805550124,2005-09-01 00:00:00.000,adventure-works.com
+609,Mr.,David,Unknown,Hodgson,Good Toys,adventure-works\linda3,david16@adventure-works.com,9695550117,2006-09-01 00:00:00.000,adventure-works.com
+610,Ms.,Liza Marie,N.,Stevens,Fitness Department Stores,adventure-works\shu0,lizamarie0@adventure-works.com,3665550110,2007-08-01 00:00:00.000,adventure-works.com
+613,Mr.,Jim,Unknown,Stewart,Famous Bike Shop,adventure-works\garrett1,jim5@adventure-works.com,2265550110,2006-09-01 00:00:00.000,adventure-works.com
+617,Ms.,Arlene,Unknown,Huff,Tubeless Tire Company,adventure-works\jae0,arlene0@adventure-works.com,1115005550146,2007-08-01 00:00:00.000,adventure-works.com
+620,Mr.,Matthew,M.,Hunter,Tires and Tubes,adventure-works\pamela0,matthew4@adventure-works.com,4825550188,2005-07-01 00:00:00.000,adventure-works.com
+621,Mr.,Matthew,Unknown,Hink,Running and Cycling Gear,adventure-works\david8,matthew3@adventure-works.com,1465550176,2007-09-01 00:00:00.000,adventure-works.com
+622,Mr.,Robert,B.,Stotka,Gift and Toy Store,adventure-works\jillian0,robert12@adventure-works.com,4935550185,2006-07-01 00:00:00.000,adventure-works.com
+623,Ms.,Phyllis,R.,Huntsman,Hardware Components,adventure-works\jillian0,phyllis1@adventure-works.com,1535550195,2005-08-01 00:00:00.000,adventure-works.com
+624,Mr.,Mike,Unknown,Hines,First Cycle Store,adventure-works\shu0,mike3@adventure-works.com,4545550160,2005-09-01 00:00:00.000,adventure-works.com
+625,Ms.,Kayla,M.,Stotler,Major Sporting Goods,adventure-works\linda3,kayla0@adventure-works.com,3155550131,2007-02-01 00:00:00.000,adventure-works.com
+626,Mr.,Lawrence,E.,Hurkett,Retail Sporting Goods,adventure-works\shu0,lawrence0@adventure-works.com,1295550185,2006-10-01 00:00:00.000,adventure-works.com
+629,Mr.,Ryan,Unknown,Ihrig,Efficient Cycling,adventure-works\josé1,ryan4@adventure-works.com,8095550152,2007-08-01 00:00:00.000,adventure-works.com
+630,Mr.,Andrew,R.,Hill,Eastside Parts Shop,adventure-works\josé1,andrew4@adventure-works.com,1945550149,2007-09-01 00:00:00.000,adventure-works.com
+631,Mr.,Robert,P.,Lyeba,Tandem Sales and Service,adventure-works\garrett1,robert8@adventure-works.com,6315550155,2005-09-01 00:00:00.000,adventure-works.com
+635,Mr.,Roger,Unknown,Van Houten,Sports Store,adventure-works\jae0,roger2@adventure-works.com,1115005550110,2006-12-01 00:00:00.000,adventure-works.com
+637,Mr.,Robert,Unknown,Lyon,Reliable Retail Center,adventure-works\garrett1,robert9@adventure-works.com,6665550143,2006-09-01 00:00:00.000,adventure-works.com
+641,Ms.,Rose,M.,Vandenouer,Extended Tours,adventure-works\jae0,rose1@adventure-works.com,1115005550140,2006-07-01 00:00:00.000,adventure-works.com
+643,Ms.,Denise,R.,Maccietto,Friendly Bike Shop,adventure-works\michael9,denise1@adventure-works.com,5375550190,2005-10-01 00:00:00.000,adventure-works.com
+644,Mr.,Gregory,T.,Vanderbout,Convenient Sales and Service,adventure-works\pamela0,gregory1@adventure-works.com,6845550134,2006-09-01 00:00:00.000,adventure-works.com
+645,Mr.,Ronald,K.,Heymsfield,Superior Hardware Distributors,adventure-works\david8,ronald1@adventure-works.com,7845550120,2006-08-01 00:00:00.000,adventure-works.com
+646,Mr.,Scott,Unknown,MacDonald,Yellow Bicycle Company,adventure-works\jillian0,scott7@adventure-works.com,4705550171,2005-07-01 00:00:00.000,adventure-works.com
+647,Mr.,Michael,Unknown,Vanderhyde,Solid Bike Parts,adventure-works\jillian0,michael25@adventure-works.com,9185550141,2005-09-01 00:00:00.000,adventure-works.com
+648,Ms.,Cheryl,M.,Herring,Small Bike Shop,adventure-works\shu0,cheryl0@adventure-works.com,1585550154,2005-09-01 00:00:00.000,adventure-works.com
+649,Mr.,Walter,J.,Mays,Sports Products Store,adventure-works\linda3,walter1@adventure-works.com,2455550191,2006-09-01 00:00:00.000,adventure-works.com
+650,Ms.,Margaret,J.,Vanderkamp,Permanent Finish Products,adventure-works\shu0,margaret2@adventure-works.com,2655550143,2005-08-01 00:00:00.000,adventure-works.com
+653,Ms.,Kara,N.,Vanderlinden,Mercantile Outlet,adventure-works\josé1,kara0@adventure-works.com,6805550160,2006-08-01 00:00:00.000,adventure-works.com
+654,Mr.,Jésus,Unknown,Hernandez,Online Bike Warehouse,adventure-works\josé1,jésus0@adventure-works.com,2145550145,2006-09-01 00:00:00.000,adventure-works.com
+655,Ms.,Irene,J.,Hernandez,Operational Manufacturing,adventure-works\garrett1,irene0@adventure-works.com,7905550197,2008-06-01 00:00:00.000,adventure-works.com
+659,Mr.,Ajay,Unknown,Manchepalli,Shipping Specialists,adventure-works\jae0,ajay0@adventure-works.com,1115005550174,2008-02-01 00:00:00.000,adventure-works.com
+660,Mr.,Nieves,J.,Vargas,Exhilarating Cycles,adventure-works\michael9,nieves0@adventure-works.com,3715550184,2006-07-01 00:00:00.000,adventure-works.com
+661,Mr.,Kari,Unknown,Hensien,General Department Stores,adventure-works\garrett1,kari0@adventure-works.com,1435550129,2005-08-01 00:00:00.000,adventure-works.com
+665,Mr.,Tomas,M.,Manzanares,Authentic Sales and Service,adventure-works\jae0,tomas0@adventure-works.com,1115005550178,2006-09-01 00:00:00.000,adventure-works.com
+668,Ms.,Kathy,R.,Marcovecchio,Official Parts Shop,adventure-works\pamela0,kathy0@adventure-works.com,9425550141,2006-07-01 00:00:00.000,adventure-works.com
+669,Ms.,Patricia,Unknown,Doyle,Racing Bike Outlet,adventure-works\david8,patricia0@adventure-works.com,8995550134,2006-11-01 00:00:00.000,adventure-works.com
+670,Ms.,Valerie,M.,Hendricks,First Bike Store,adventure-works\jillian0,valerie0@adventure-works.com,8595550140,2005-07-01 00:00:00.000,adventure-works.com
+671,Ms.,Jill,K.,Markwood,"Contoso, Ltd.",adventure-works\jillian0,jill2@adventure-works.com,7475550113,2005-07-01 00:00:00.000,adventure-works.com
+672,Mr.,Gerald,M.,Drury,Utilitarian Sporting Goods,adventure-works\shu0,gerald0@adventure-works.com,1695550178,2007-09-01 00:00:00.000,adventure-works.com
+673,Mr.,John,Unknown,Hanson,Countryside Company,adventure-works\linda3,john20@adventure-works.com,1075550117,2006-10-01 00:00:00.000,adventure-works.com
+674,Ms.,Melissa,R.,Marple,Discount Tours,adventure-works\shu0,melissa0@adventure-works.com,6855550117,2005-12-01 00:00:00.000,adventure-works.com
+677,Ms.,Cecelia,L.,Marshall,Tire Exchange,adventure-works\josé1,cecelia0@adventure-works.com,3945550168,2006-08-01 00:00:00.000,adventure-works.com
+678,Mr.,Reuben,Unknown,D'sa,Vigorous Exercise Company,adventure-works\josé1,reuben1@adventure-works.com,9165550137,2005-09-01 00:00:00.000,adventure-works.com
+679,Ms.,Brenda,F.,Heaney,Superb Sales and Repair,adventure-works\garrett1,brenda3@adventure-works.com,3935550167,2005-07-01 00:00:00.000,adventure-works.com
+683,Ms.,Linda,Unknown,Martin,Oils and Fluids Warehouse,adventure-works\jae0,linda8@adventure-works.com,1115005550137,2006-08-01 00:00:00.000,adventure-works.com
+685,Mr.,James,B.,Haugh,Family Cycle Store,adventure-works\garrett1,james8@adventure-works.com,7635550120,2006-09-01 00:00:00.000,adventure-works.com
+689,Ms.,Sandra,I.,Martinez,Consumer Equipment,adventure-works\jae0,sandra3@adventure-works.com,1115005550113,2007-09-01 00:00:00.000,adventure-works.com
+692,Ms.,Bev,L.,Desalvo,Successful Sales Company,adventure-works\pamela0,bev0@adventure-works.com,1435550113,2006-09-01 00:00:00.000,adventure-works.com
+693,Mr.,Bart,Unknown,Duncan,Stock Parts and Supplies,adventure-works\david8,bart0@adventure-works.com,5395550121,2007-08-01 00:00:00.000,adventure-works.com
+694,Ms.,Ann,T.,Hass,The Accessories Store,adventure-works\jillian0,ann2@adventure-works.com,7135550168,2006-08-01 00:00:00.000,adventure-works.com
+695,Mr.,Rob,Unknown,Caron,Responsible Bike Dealers,adventure-works\jillian0,rob2@adventure-works.com,6205550117,2006-09-01 00:00:00.000,adventure-works.com
+696,Mr.,Maciej,Unknown,Dusza,Roadway Supplies,adventure-works\shu0,maciej1@adventure-works.com,9625550144,2005-11-01 00:00:00.000,adventure-works.com
+697,Mr.,Roger,Unknown,Harui,Brakes and Gears,adventure-works\linda3,roger0@adventure-works.com,7745550133,2005-08-01 00:00:00.000,adventure-works.com
+698,Mr.,Andy,Unknown,Carothers,Western Bike Supplies,adventure-works\shu0,andy1@adventure-works.com,9445550148,2006-07-01 00:00:00.000,adventure-works.com
+701,Ms.,Linda,R.,Ecoffey,Future Bikes,adventure-works\josé1,linda5@adventure-works.com,6745550188,2006-12-01 00:00:00.000,adventure-works.com
+29485,Ms.,Catherine,R.,Abel,Professional Sales and Service,adventure-works\linda3,catherine0@adventure-works.com,7475550171,2009-05-16 16:33:33.077,adventure-works.com
+29486,Ms.,Kim,Unknown,Abercrombie,Riders Company,adventure-works\jillian0,kim2@adventure-works.com,3345550137,2009-05-16 16:33:33.077,adventure-works.com
+29489,Ms.,Frances,B.,Adams,Area Bike Accessories,adventure-works\shu0,frances0@adventure-works.com,9915550183,2009-05-16 16:33:33.090,adventure-works.com
+29490,Ms.,Margaret,J.,Smith,Bicycle Accessories and Kits,adventure-works\david8,margaret0@adventure-works.com,9595550151,2009-05-16 16:33:33.107,adventure-works.com
+29492,Mr.,Jay,Unknown,Adams,Valley Bicycle Specialists,adventure-works\jillian0,jay1@adventure-works.com,1585550142,2009-05-16 16:33:33.123,adventure-works.com
+29494,Mr.,Samuel,N.,Agcaoili,Vinyl and Plastic Goods Corporation,adventure-works\josé1,samuel0@adventure-works.com,5545550110,2005-09-01 00:00:00.000,adventure-works.com
+29496,Mr.,Robert,E.,Ahlering,Fun Toys and Bikes,adventure-works\shu0,robert1@adventure-works.com,6785550175,2007-09-01 00:00:00.000,adventure-works.com
+29497,Mr.,François,Unknown,Ferrier,Great Bikes ,adventure-works\david8,françois1@adventure-works.com,5715550128,2005-07-01 00:00:00.000,adventure-works.com
+29499,Ms.,Amy,E.,Alberts,Valley Toy Store,adventure-works\josé1,amy1@adventure-works.com,7275550115,2006-09-01 00:00:00.000,adventure-works.com
+29502,Mr.,Paul,L.,Alcorn,Major Sport Suppliers,adventure-works\david8,paul2@adventure-works.com,3315550162,2007-07-01 00:00:00.000,adventure-works.com
+29503,Mr.,Gregory,F.,Alderson,Family's Favorite Bike Shop,adventure-works\garrett1,gregory0@adventure-works.com,9685550153,2006-08-01 00:00:00.000,adventure-works.com
+29505,Ms.,Michelle,Unknown,Alexander,Imported and Domestic Cycles,adventure-works\linda3,michelle0@adventure-works.com,1155550175,2007-05-01 00:00:00.000,adventure-works.com
+29506,Mr.,Sean,P.,Jacobson,Systematic Sales,adventure-works\shu0,sean2@adventure-works.com,5555550162,2007-08-01 00:00:00.000,adventure-works.com
+29508,Mr.,Marvin,N.,Allen,Mountain Toy Store,adventure-works\jillian0,marvin0@adventure-works.com,4475550110,2005-12-01 00:00:00.000,adventure-works.com
+29510,Mr.,Cecil,J.,Allison,Designated Distributors,adventure-works\josé1,cecil0@adventure-works.com,6995550155,2005-08-01 00:00:00.000,adventure-works.com
+29511,Mr.,Oscar,L.,Alpuerto,Bold Bike Accessories,adventure-works\linda3,oscar0@adventure-works.com,8555550174,2005-08-01 00:00:00.000,adventure-works.com
+29515,Mr.,Maxwell,J.,Amland,Serious Cycles,adventure-works\garrett1,maxwell0@adventure-works.com,6145550134,2005-08-01 00:00:00.000,adventure-works.com
+29517,Ms.,Ramona,J.,Antrim,Novelty Bikes,adventure-works\michael9,ramona0@adventure-works.com,3275550148,2007-08-01 00:00:00.000,adventure-works.com
+29521,Mr.,Tom,H,Johnston,Brightwork Company,adventure-works\shu0,tom1@adventure-works.com,8835550177,2005-08-01 00:00:00.000,adventure-works.com
+29522,Mr.,Thomas,B.,Armstrong,Resale Services,adventure-works\linda3,thomas1@adventure-works.com,2265550146,2005-08-01 00:00:00.000,adventure-works.com
+29523,Mr.,John,Unknown,Arthur,The Gear Store,adventure-works\jillian0,john6@adventure-works.com,1495550113,2005-08-01 00:00:00.000,adventure-works.com
+29524,Mr.,Chris,Unknown,Ashton,Immense Manufacturing Company,adventure-works\jillian0,chris3@adventure-works.com,5565550145,2007-08-01 00:00:00.000,adventure-works.com
+29525,Ms.,Teresa,Unknown,Atkinson,Extended Bike Sales,adventure-works\linda3,teresa0@adventure-works.com,1295550110,2005-09-01 00:00:00.000,adventure-works.com
+29527,Mr.,Robert,A.,Avalos,Workout Emporium,adventure-works\josé1,robert2@adventure-works.com,6655550198,2007-09-01 00:00:00.000,adventure-works.com
+29528,Mr.,Stephen,M.,Ayers,Work and Play Association,adventure-works\michael9,stephen1@adventure-works.com,8185550171,2006-09-01 00:00:00.000,adventure-works.com
+29530,Mr.,Daniel,Unknown,Blanco,Nice Bikes,adventure-works\garrett1,daniel0@adventure-works.com,2215550167,2006-09-01 00:00:00.000,adventure-works.com
+29531,Mr.,Cory,K.,Booth,Remarkable Bike Store,adventure-works\linda3,cory0@adventure-works.com,1215550157,2005-12-01 00:00:00.000,adventure-works.com
+29532,Mr.,James,B.,Bailey,Road-Way Mart,adventure-works\david8,james3@adventure-works.com,2345550112,2006-10-01 00:00:00.000,adventure-works.com
+29533,Mr.,Douglas,A.,Baldwin,Small Cycle Store,adventure-works\michael9,douglas1@adventure-works.com,5835550130,2005-07-01 00:00:00.000,adventure-works.com
+29535,Mr.,Wayne,N.,Banack,Grand Bicycle Stores,adventure-works\jillian0,wayne0@adventure-works.com,6405550189,2006-09-01 00:00:00.000,adventure-works.com
+29536,Mr.,Robert,L.,Barker,Kickstand Sellers,adventure-works\michael9,robert3@adventure-works.com,2415550112,2006-12-01 00:00:00.000,adventure-works.com
+29539,Mr.,Josh,Unknown,Barnhill,Gasless Cycle Shop,adventure-works\garrett1,josh0@adventure-works.com,5845550192,2005-08-01 00:00:00.000,adventure-works.com
+29541,Unknown,Gytis,M,Barzdukas,Transportation Options,adventure-works\josé1,gytis0@adventure-works.com,2575550119,2005-11-01 00:00:00.000,adventure-works.com
+29544,Mr.,Shaun,Unknown,Beasley,Finer Cycle Shop,adventure-works\garrett1,shaun0@adventure-works.com,3965550187,2006-08-01 00:00:00.000,adventure-works.com
+29545,Mr.,John,A.,Beaver,Center Cycle Shop,adventure-works\pamela0,john8@adventure-works.com,5215550195,2007-04-01 00:00:00.000,adventure-works.com
+29546,Mr.,Christopher,R.,Beck,Bulk Discount Store,adventure-works\jae0,christopher1@adventure-works.com,1115005550132,2006-09-01 00:00:00.000,adventure-works.com
+29548,Ms.,Ann,Unknown,Beebe,First-Rate Outlet,adventure-works\garrett1,ann0@adventure-works.com,2775550169,2005-08-01 00:00:00.000,adventure-works.com
+29550,Mr.,Stanley,A.,Alan,Another Bicycle Company,adventure-works\david8,stanley0@adventure-works.com,1565550126,2007-09-01 00:00:00.000,adventure-works.com
+29553,Ms.,Edna,J.,Benson,Unsurpassed Bikes,adventure-works\jillian0,edna0@adventure-works.com,7895550189,2007-09-01 00:00:00.000,adventure-works.com
+29554,Mr.,Payton,P.,Benson,Field Trip Inc,adventure-works\michael9,payton0@adventure-works.com,5285550183,2005-11-01 00:00:00.000,adventure-works.com
+29557,Mr.,Alexander,J.,Berger,Odometers and Accessories Company,adventure-works\garrett1,alexander0@adventure-works.com,5195550151,2007-09-01 00:00:00.000,adventure-works.com
+29558,Mr.,John,M.,Berger,Scratch-Resistant Finishes Company,adventure-works\josé1,john10@adventure-works.com,1565550111,2005-08-01 00:00:00.000,adventure-works.com
+29559,Mr.,Robert,M.,Bernacchi,Safe Cycles Shop,adventure-works\david8,robert4@adventure-works.com,4495550176,2006-09-01 00:00:00.000,adventure-works.com
+29560,Mr.,Matthias,Unknown,Berndt,Number 1 Supply,adventure-works\shu0,matthias1@adventure-works.com,3845550169,2006-08-01 00:00:00.000,adventure-works.com
+29562,Mr.,Steven,B.,Brown,Golf and Cycle Store,adventure-works\shu0,steven1@adventure-works.com,2805550124,2005-09-01 00:00:00.000,adventure-works.com
+29565,Mr.,Jimmy,Unknown,Bischoff,World Bike Discount Store,adventure-works\linda3,jimmy1@adventure-works.com,9925550111,2005-07-01 00:00:00.000,adventure-works.com
+29566,Ms.,Mae,M.,Black,Historic Bicycle Sales,adventure-works\michael9,mae1@adventure-works.com,2645550143,2005-07-01 00:00:00.000,adventure-works.com
+29567,Ms.,Jackie,E.,Blackwell,Commuter Bicycle Store,adventure-works\josé1,jackie0@adventure-works.com,9725550163,2007-08-01 00:00:00.000,adventure-works.com
+29568,Mr.,Donald,L.,Blanton,Coalition Bike Company,adventure-works\shu0,donald0@adventure-works.com,3575550161,2006-09-01 00:00:00.000,adventure-works.com
+29569,Ms.,Linda,E.,Burnett,Travel Systems,adventure-works\jillian0,linda4@adventure-works.com,1215550121,2005-08-01 00:00:00.000,adventure-works.com
+29570,Mr.,Michael,Greg,Blythe,Grease and Oil Products Company,adventure-works\jillian0,michael11@adventure-works.com,1265550172,2005-07-01 00:00:00.000,adventure-works.com
+29571,Ms.,Gabriel,L.,Bockenkamp,Moderately-Priced Bikes Store,adventure-works\pamela0,gabriel0@adventure-works.com,7635550145,2005-08-01 00:00:00.000,adventure-works.com
+29573,Sr.,Luis,Unknown,Bonifaz,Economy Bikes Company,adventure-works\linda3,luis0@adventure-works.com,6885550113,2006-09-01 00:00:00.000,adventure-works.com
+29574,Mr.,Randall,Unknown,Boseman,Third Bike Store,adventure-works\jillian0,randall0@adventure-works.com,3835550117,2006-09-01 00:00:00.000,adventure-works.com
+29576,Mr.,Eli,Unknown,Bowen,Bikes for Two,adventure-works\josé1,eli0@adventure-works.com,3715550143,2006-09-01 00:00:00.000,adventure-works.com
+29577,Mr.,Lester,J.,Bowman,Metal Processing Company,adventure-works\garrett1,lester0@adventure-works.com,8445550112,2005-09-01 00:00:00.000,adventure-works.com
+29579,Mr.,Cornelius,L.,Brandon,Initial Bike Company,adventure-works\shu0,cornelius0@adventure-works.com,2295550114,2006-09-01 00:00:00.000,adventure-works.com
+29580,Mr.,Richard,Unknown,Bready,Latest Sports Equipment,adventure-works\david8,richard1@adventure-works.com,3405550131,2005-07-01 00:00:00.000,adventure-works.com
+29582,Mr.,Ted,Unknown,Bremer,Raw Materials Inc,adventure-works\pamela0,ted0@adventure-works.com,9625550166,2005-08-01 00:00:00.000,adventure-works.com
+29583,Mr.,Alan,Unknown,Brewer,Lots of Bikes Storehouse,adventure-works\jillian0,alan1@adventure-works.com,4945550134,2005-11-01 00:00:00.000,adventure-works.com
+29584,Mr.,Walter,J.,Brian,Futuristic Bikes,adventure-works\shu0,walter0@adventure-works.com,1635550155,2006-09-01 00:00:00.000,adventure-works.com
+29585,Mr.,Christopher,M.,Bright,Parcel Express Delivery Service,adventure-works\david8,christopher2@adventure-works.com,1625550166,2005-11-01 00:00:00.000,adventure-works.com
+29587,Mr.,John,R.,Brooks,Prosperous Tours,adventure-works\jae0,john12@adventure-works.com,1115005550179,2006-07-01 00:00:00.000,adventure-works.com
+29588,Mr.,Willie,P.,Brooks,Nonskid Tire Company,adventure-works\pamela0,willie0@adventure-works.com,5255550174,2005-11-01 00:00:00.000,adventure-works.com
+29590,Mr.,Jo,Unknown,Brown,Metro Bike Works,adventure-works\michael9,jo2@adventure-works.com,6895550130,2006-08-01 00:00:00.000,adventure-works.com
+29591,Mr.,Robert,Unknown,Brown,Best o' Bikes,adventure-works\jillian0,robert5@adventure-works.com,5755550189,2007-07-01 00:00:00.000,adventure-works.com
+29593,Ms.,Mary,K.,Browning,Client Discount Store,adventure-works\jillian0,mary5@adventure-works.com,6585550146,2006-08-01 00:00:00.000,adventure-works.com
+29596,Mr.,Eric,J.,Brumfield,Requisite Part Supply,adventure-works\josé1,eric3@adventure-works.com,6445550114,2005-07-01 00:00:00.000,adventure-works.com
+29598,Mr.,Michael,Unknown,Brundage,Mechanical Products Ltd.,adventure-works\shu0,michael13@adventure-works.com,1285550148,2006-08-01 00:00:00.000,adventure-works.com
+29599,Ms.,Shirley,R.,Bruner,Commendable Bikes,adventure-works\david8,shirley0@adventure-works.com,3835550155,2006-07-01 00:00:00.000,adventure-works.com
+29600,Ms.,June,B.,Brunner,Online Bike Sellers,adventure-works\michael9,june0@adventure-works.com,2495550172,2006-09-01 00:00:00.000,adventure-works.com
+29601,Mr.,Dirk,J.,Bruno,Custom Accessories Company,adventure-works\garrett1,dirk0@adventure-works.com,8175550114,2006-08-01 00:00:00.000,adventure-works.com
+29603,Sra.,Janaina Barreiro Gambaro,Unknown,Bueno,Courteous Bicycle Specialists,adventure-works\josé1,janainabarreirogambaro0@adventure-works.com,4765550184,2007-09-01 00:00:00.000,adventure-works.com
+29605,Ms.,Megan,E.,Burke,Professional Cycle Store,adventure-works\shu0,megan0@adventure-works.com,1485550149,2006-07-01 00:00:00.000,adventure-works.com
+29606,Ms.,Karren,K.,Burkhardt,Fifth Bike Store,adventure-works\david8,karren0@adventure-works.com,6525550132,2005-07-01 00:00:00.000,adventure-works.com
+29608,Mr.,Timothy,B.,Burnett,Farthest Bike Store,adventure-works\josé1,timothy0@adventure-works.com,2515550172,2007-08-01 00:00:00.000,adventure-works.com
+29611,Mr.,Jared,L.,Bustamante,Alternative Vehicles,adventure-works\pamela0,jared0@adventure-works.com,1645550147,2005-11-01 00:00:00.000,adventure-works.com
+29612,Mr.,Richard,A.,Byham,Channel Outlet,adventure-works\jae0,richard2@adventure-works.com,1115005550138,2007-09-01 00:00:00.000,adventure-works.com
+29614,Mr.,Ryan,Unknown,Calafato,Retail Mall,adventure-works\josé1,ryan1@adventure-works.com,7265550155,2005-07-01 00:00:00.000,adventure-works.com
+29615,Ms.,Mari,B.,Caldwell,Metro Metals Co.,adventure-works\jae0,mari0@adventure-works.com,1115005550118,2007-08-01 00:00:00.000,adventure-works.com
+29616,Ms.,Barbara,J.,Calone,Sheet Metal Manufacturing,adventure-works\jillian0,barbara2@adventure-works.com,1455550152,2006-08-01 00:00:00.000,adventure-works.com
+29617,Ms.,Lindsey,R.,Camacho,Thorough Parts and Repair Services,adventure-works\pamela0,lindsey0@adventure-works.com,8275550143,2005-08-01 00:00:00.000,adventure-works.com
+29618,Sr.,Gustavo,Unknown,Camargo,Uttermost Bike Shop,adventure-works\jae0,gustavo1@adventure-works.com,1115005550118,2006-08-01 00:00:00.000,adventure-works.com
+29620,Ms.,Joan,M.,Campbell,Two-Wheeled Transit Company,adventure-works\josé1,joan0@adventure-works.com,7005550155,2005-08-01 00:00:00.000,adventure-works.com
+29622,Mr.,Henry,L.,Campen,Metro Cycle Shop,adventure-works\david8,henry0@adventure-works.com,6355550126,2005-09-01 00:00:00.000,adventure-works.com
+29623,Mr.,Chris,Unknown,Cannon,Outdoor Sporting Goods,adventure-works\shu0,chris5@adventure-works.com,1185550131,2007-07-01 00:00:00.000,adventure-works.com
+29625,Ms.,Suzana De Abreu,A.,Canuto,Petroleum Products Distributors,adventure-works\josé1,suzanadeabreu0@adventure-works.com,9905550141,2007-09-01 00:00:00.000,adventure-works.com
+29627,Mr.,Johnny,A.,Caprio,Bikes and Motorbikes,adventure-works\garrett1,johnny0@adventure-works.com,1125550191,2006-08-01 00:00:00.000,adventure-works.com
+29629,Mr.,Carlton,M.,Carlisle,Camping and Sports Store,adventure-works\josé1,carlton0@adventure-works.com,1935550116,2007-09-01 00:00:00.000,adventure-works.com
+29631,Ms.,Jane,N.,Carmichael,Rural Department Store,adventure-works\shu0,jane0@adventure-works.com,7165550167,2007-07-01 00:00:00.000,adventure-works.com
+29632,Ms.,Jovita,A.,Carmody,Sports Commodities,adventure-works\david8,jovita0@adventure-works.com,6465550137,2005-09-01 00:00:00.000,adventure-works.com
+29635,Mr.,Rob,Unknown,Caron,Responsible Bike Dealers,adventure-works\jillian0,rob2@adventure-works.com,6205550117,2006-09-01 00:00:00.000,adventure-works.com
+29636,Mr.,Andy,Unknown,Carothers,Western Bike Supplies,adventure-works\shu0,andy1@adventure-works.com,9445550148,2006-07-01 00:00:00.000,adventure-works.com
+29637,Ms.,Donna,F.,Carreras,Advanced Bike Components,adventure-works\jillian0,donna0@adventure-works.com,2795550130,2005-09-01 00:00:00.000,adventure-works.com
+29638,Ms.,Rosmarie,J.,Carroll,Aerobic Exercise Company,adventure-works\linda3,rosmarie0@adventure-works.com,2445550112,2007-09-01 00:00:00.000,adventure-works.com
+29639,Mr.,Joseph,N.,Castellucio,Corner Bicycle Supply,adventure-works\josé1,joseph1@adventure-works.com,1805550114,2005-09-01 00:00:00.000,adventure-works.com
+29641,Mr.,Raul,E.,Casts,Westside Plaza,adventure-works\shu0,raul0@adventure-works.com,3625550162,2007-07-01 00:00:00.000,adventure-works.com
+29643,Mr.,Matthew,J.,Cavallari,Outstanding Cycles,adventure-works\david8,matthew1@adventure-works.com,6955550161,2007-08-01 00:00:00.000,adventure-works.com
+29644,Ms.,Brigid,F.,Cavendish,Vigorous Sports Store,adventure-works\jae0,brigid0@adventure-works.com,1115005550178,2006-09-01 00:00:00.000,adventure-works.com
+29645,Mr.,Andrew,Unknown,Cencini,Sports Merchandise,adventure-works\pamela0,andrew2@adventure-works.com,6445550111,2007-09-01 00:00:00.000,adventure-works.com
+29646,Ms.,Stacey,M.,Cereghino,Fitness Toy Store,adventure-works\jillian0,stacey0@adventure-works.com,3515550131,2005-07-01 00:00:00.000,adventure-works.com
+29649,Mr.,Pat,A.,Chambers,General Cycle Storehouse,adventure-works\garrett1,pat1@adventure-works.com,1275550124,2005-09-01 00:00:00.000,adventure-works.com
+29650,Mr.,Forrest,J.,Chandler,Fitness Cycling,adventure-works\shu0,forrest0@adventure-works.com,4485550179,2007-07-01 00:00:00.000,adventure-works.com
+29651,Mr.,Lee,J.,Chapla,Good Bike Shop,adventure-works\jillian0,lee0@adventure-works.com,2235550184,2005-09-01 00:00:00.000,adventure-works.com
+29653,Mr.,Pei,Unknown,Chow,Thrilling Bike Tours,adventure-works\linda3,pei0@adventure-works.com,7895550184,2007-09-01 00:00:00.000,adventure-works.com
+29654,Mr.,Yao-Qiang,Unknown,Cheng,This Area Sporting Goods,adventure-works\jillian0,yao-qiang0@adventure-works.com,3445550181,2006-07-01 00:00:00.000,adventure-works.com
+29655,Ms.,Nicky,E.,Chesnut,Full-Service Bike Store,adventure-works\michael9,nicky0@adventure-works.com,2645550164,2005-09-01 00:00:00.000,adventure-works.com
+29659,Ms.,Ruth,A.,Choin,Genuine Bike Shop,adventure-works\jillian0,ruth1@adventure-works.com,2735550181,2005-09-01 00:00:00.000,adventure-works.com
+29660,Mr.,Anthony,Unknown,Chor,Extreme Riding Supplies,adventure-works\linda3,anthony0@adventure-works.com,4295550145,2007-09-01 00:00:00.000,adventure-works.com
+29662,Ms.,Jill,J.,Christie,Fleet Bikes,adventure-works\linda3,jill1@adventure-works.com,9275550198,2006-08-01 00:00:00.000,adventure-works.com
+29663,Ms.,Alice,Unknown,Clark,Local Hardware Factory,adventure-works\jillian0,alice1@adventure-works.com,2215550141,2006-09-01 00:00:00.000,adventure-works.com
+29666,Ms.,Jane,Unknown,Clayton,South Bike Company,adventure-works\garrett1,jane1@adventure-works.com,2065550195,2007-08-01 00:00:00.000,adventure-works.com
+29668,Ms.,Connie,L.,Coffman,Discount Bicycle Specialists,adventure-works\jillian0,connie0@adventure-works.com,4265550181,2005-11-01 00:00:00.000,adventure-works.com
+29671,Mr.,Pat,Unknown,Coleman,Machines & Cycles Store,adventure-works\garrett1,pat2@adventure-works.com,2925550128,2007-07-01 00:00:00.000,adventure-works.com
+29673,Mr.,John,L.,Colon,Two Wheels Cycle Store,adventure-works\linda3,john14@adventure-works.com,3975550144,2005-09-01 00:00:00.000,adventure-works.com
+29674,Mr.,Scott,A.,Colvin,Westside Cycle Store,adventure-works\jillian0,scott1@adventure-works.com,1195550144,2005-12-01 00:00:00.000,adventure-works.com
+29677,Mr.,William,J.,Conner,Urban Sports Emporium,adventure-works\josé1,william1@adventure-works.com,3835550111,2006-08-01 00:00:00.000,adventure-works.com
+29680,Ms.,Dorothy,J.,Contreras,Sixth Bike Store,adventure-works\josé1,dorothy0@adventure-works.com,4285550176,2005-08-01 00:00:00.000,adventure-works.com
+29682,Mr.,Scott,Unknown,Cooper,Vehicle Shop,adventure-works\shu0,scott2@adventure-works.com,7735550182,2005-10-01 00:00:00.000,adventure-works.com
+29683,Ms.,Eva,Unknown,Corets,First Department Stores,adventure-works\david8,eva0@adventure-works.com,5425550164,2006-07-01 00:00:00.000,adventure-works.com
+29684,Mr.,Marlin,M.,Coriell,Grand Sport Boutique,adventure-works\michael9,marlin0@adventure-works.com,9415550155,2006-08-01 00:00:00.000,adventure-works.com
+29686,Mr.,Jack,Unknown,Creasey,Distinctive Store,adventure-works\shu0,jack2@adventure-works.com,5395550182,2005-09-01 00:00:00.000,adventure-works.com
+29688,Mr.,Grant,Unknown,Culbertson,Handy Bike Services,adventure-works\michael9,grant1@adventure-works.com,8595550173,2005-08-01 00:00:00.000,adventure-works.com
+29689,Mr.,Scott,Unknown,Culp,Friendly Bike Shop,adventure-works\david8,scott3@adventure-works.com,1195550167,2006-07-01 00:00:00.000,adventure-works.com
+29690,Mr.,Conor,Unknown,Cunningham,Fashionable Bikes and Accessories,adventure-works\shu0,conor0@adventure-works.com,1155550113,2005-09-01 00:00:00.000,adventure-works.com
+29692,Mr.,Thierry,Unknown,D'Hers,Citywide Service and Repair,adventure-works\josé1,thierry1@adventure-works.com,6805550192,2006-07-01 00:00:00.000,adventure-works.com
+29695,Ms.,Megan,N.,Davis,Rugged Bikes,adventure-works\david8,megan1@adventure-works.com,8395550198,2007-09-01 00:00:00.000,adventure-works.com
+29696,Sr.,Alvaro,Unknown,De Matos Miranda Filho,Principal Bike Company,adventure-works\shu0,alvaro0@adventure-works.com,5515550155,2006-09-01 00:00:00.000,adventure-works.com
+29698,Mr.,Jacob,N.,Dean,Finer Riding Supplies,adventure-works\josé1,jacob0@adventure-works.com,7675550151,2005-08-01 00:00:00.000,adventure-works.com
+29699,Mr.,Alexander,J.,Deborde,Neighborhood Store,adventure-works\garrett1,alexander1@adventure-works.com,3945550176,2006-08-01 00:00:00.000,adventure-works.com
+29702,Ms.,Aidan,Unknown,Delaney,Paint Supply,adventure-works\jillian0,aidan0@adventure-works.com,3585550188,2005-09-01 00:00:00.000,adventure-works.com
+29703,Mr.,Stefan,Unknown,Delmarco,Preferred Bikes,adventure-works\linda3,stefan0@adventure-works.com,8195550186,2005-08-01 00:00:00.000,adventure-works.com
+29705,Ms.,Della,F.,Demott Jr,Rewarding Activities Company,adventure-works\garrett1,della0@adventure-works.com,7525550185,2005-08-01 00:00:00.000,adventure-works.com
+29708,Mr.,Prashanth,Unknown,Desai,Stationary Bikes and Stands,adventure-works\jillian0,prashanth0@adventure-works.com,1385550156,2005-09-01 00:00:00.000,adventure-works.com
+29709,Ms.,Bev,L.,Desalvo,Successful Sales Company,adventure-works\pamela0,bev0@adventure-works.com,1435550113,2006-09-01 00:00:00.000,adventure-works.com
+29710,Ms.,Brenda,Unknown,Diaz,Downtown Hotel,adventure-works\shu0,brenda2@adventure-works.com,1475550192,2005-09-01 00:00:00.000,adventure-works.com
+29711,Ms.,Gabriele,Unknown,Dickmann,Certified Sports Supply,adventure-works\josé1,gabriele0@adventure-works.com,8355550116,2005-09-01 00:00:00.000,adventure-works.com
+29713,Mr.,Dick,Unknown,Dievendorff,Rampart Amusement Company,adventure-works\jae0,dick1@adventure-works.com,1115005550193,2007-08-01 00:00:00.000,adventure-works.com
+29714,Mr.,Rudolph,J.,Dillon,Sundry Sporting Goods,adventure-works\josé1,rudolph0@adventure-works.com,7225550169,2005-09-01 00:00:00.000,adventure-works.com
+29716,Mr.,Blaine,Unknown,Dockter,Farthermost Bike Shop,adventure-works\shu0,blaine0@adventure-works.com,1565550187,2005-08-01 00:00:00.000,adventure-works.com
+29717,Ms.,Cindy,M.,Dodd,Suburban Cycle Shop,adventure-works\david8,cindy0@adventure-works.com,7065550140,2005-08-01 00:00:00.000,adventure-works.com
+29719,Ms.,Patricia,Unknown,Doyle,Racing Bike Outlet,adventure-works\david8,patricia0@adventure-works.com,8995550134,2006-11-01 00:00:00.000,adventure-works.com
+29720,Mr.,Gerald,M.,Drury,Utilitarian Sporting Goods,adventure-works\shu0,gerald0@adventure-works.com,1695550178,2007-09-01 00:00:00.000,adventure-works.com
+29722,Mr.,Reuben,Unknown,D'sa,Vigorous Exercise Company,adventure-works\josé1,reuben1@adventure-works.com,9165550137,2005-09-01 00:00:00.000,adventure-works.com
+29727,Mr.,Bart,Unknown,Duncan,Stock Parts and Supplies,adventure-works\david8,bart0@adventure-works.com,5395550121,2007-08-01 00:00:00.000,adventure-works.com
+29728,Mr.,Maciej,Unknown,Dusza,Roadway Supplies,adventure-works\shu0,maciej1@adventure-works.com,9625550144,2005-11-01 00:00:00.000,adventure-works.com
+29730,Ms.,Linda,R.,Ecoffey,Future Bikes,adventure-works\josé1,linda5@adventure-works.com,6745550188,2006-12-01 00:00:00.000,adventure-works.com
+29732,Ms.,Carol,B.,Elliott,Satin Finish Company,adventure-works\jillian0,carol2@adventure-works.com,8475550151,2006-08-01 00:00:00.000,adventure-works.com
+29733,Ms.,Shannon,P.,Elliott,Regional Manufacturing,adventure-works\shu0,shannon0@adventure-works.com,4255550158,2005-09-01 00:00:00.000,adventure-works.com
+29734,Ms.,Jauna,E.,Elson,Original Bicycle Supply Company,adventure-works\josé1,jauna0@adventure-works.com,1855550190,2005-07-01 00:00:00.000,adventure-works.com
+29736,Mr.,Terry,Unknown,Eminhizer,Action Bicycle Specialists,adventure-works\jae0,terry1@adventure-works.com,1115005550176,2007-09-01 00:00:00.000,adventure-works.com
+29737,Mr.,John,Unknown,Emory,Roadway Bike Emporium,adventure-works\pamela0,john16@adventure-works.com,6915550149,2007-07-01 00:00:00.000,adventure-works.com
+29738,Ms.,Gail,Unknown,Erickson,Sleek Bikes ,adventure-works\jillian0,gail1@adventure-works.com,8345550132,2007-09-01 00:00:00.000,adventure-works.com
+29739,Mr.,Mark,B,Erickson,Retail Sporting Equipment,adventure-works\shu0,mark2@adventure-works.com,9625550112,2006-09-01 00:00:00.000,adventure-works.com
+29740,Ms.,Martha,R.,Espinoza,Price-Cutter Discount Bikes,adventure-works\josé1,martha0@adventure-works.com,7535550179,2005-09-01 00:00:00.000,adventure-works.com
+29741,Sra.,Janeth,Unknown,Esteves,Central Bicycle Specialists,adventure-works\jae0,janeth1@adventure-works.com,1115005550136,2007-09-01 00:00:00.000,adventure-works.com
+29742,Ms.,Twanna,R.,Evans,Vast Bike Sales and Rental,adventure-works\pamela0,twanna0@adventure-works.com,5545550124,2005-08-01 00:00:00.000,adventure-works.com
+29743,Ms.,Ann,R.,Evans,Summer Sports Place,adventure-works\jillian0,ann1@adventure-works.com,2525550127,2006-09-01 00:00:00.000,adventure-works.com
+29744,Mr.,John,Unknown,Evans,Real Sporting Goods,adventure-works\shu0,john17@adventure-works.com,5815550172,2006-07-01 00:00:00.000,adventure-works.com
+29747,Ms.,Carolyn,Unknown,Farino,The Bike Shop,adventure-works\david8,carolyn0@adventure-works.com,9575550125,2005-07-01 00:00:00.000,adventure-works.com
+29748,Ms.,Geri,P.,Farrell,Safe Toys,adventure-works\shu0,geri0@adventure-works.com,3295550183,2005-09-01 00:00:00.000,adventure-works.com
+29750,Ms.,Rhoda,J.,Finley,Our Sporting Goods Store,adventure-works\josé1,rhoda0@adventure-works.com,9205550191,2006-09-01 00:00:00.000,adventure-works.com
+29753,Ms.,Kathie,Unknown,Flood,Coho Sports,adventure-works\david8,kathie1@adventure-works.com,6275550192,2006-08-01 00:00:00.000,adventure-works.com
+29755,Ms.,Kelly,Unknown,Focht,Quick Delivery Service,adventure-works\garrett1,kelly0@adventure-works.com,2725550123,2005-09-01 00:00:00.000,adventure-works.com
+29757,Mr.,Garth,Unknown,Fort,Basic Sports Equipment,adventure-works\linda3,garth0@adventure-works.com,7685550125,2005-08-01 00:00:00.000,adventure-works.com
+29758,Ms.,Dorothy,J.,Fox,Cash & Carry Bikes,adventure-works\jillian0,dorothy1@adventure-works.com,1915550198,2006-09-01 00:00:00.000,adventure-works.com
+29761,Ms.,Susan,E.,French,General Bike Corporation,adventure-works\garrett1,susan3@adventure-works.com,9945550194,2005-07-01 00:00:00.000,adventure-works.com
+29763,Mr.,Mihail,Unknown,Frintu,Retail Cycle Shop,adventure-works\linda3,mihail1@adventure-works.com,7775550163,2006-09-01 00:00:00.000,adventure-works.com
+29764,Mr.,John,Unknown,Ford,Social Activities Club,adventure-works\jillian0,john19@adventure-works.com,5965550153,2005-08-01 00:00:00.000,adventure-works.com
+29765,Mr.,Paul,J.,Fulton,Blue Bicycle Company,adventure-works\michael9,paul3@adventure-works.com,4925550146,2006-08-01 00:00:00.000,adventure-works.com
+29766,Mr.,Bob,Unknown,Gage,General Riding Supplies,adventure-works\garrett1,bob1@adventure-works.com,9625550175,2007-02-01 00:00:00.000,adventure-works.com
+29768,Mr.,Michael,Unknown,Galos,Riding Excursions,adventure-works\linda3,michael15@adventure-works.com,9125550149,2006-01-01 00:00:00.000,adventure-works.com
+29769,Mr.,Jon,Unknown,Ganio,Unique Bikes,adventure-works\jillian0,jon0@adventure-works.com,6725550112,2005-09-01 00:00:00.000,adventure-works.com
+29770,Ms.,Kathleen,M.,Garza,Rural Cycle Emporium,adventure-works\josé1,kathleen0@adventure-works.com,1505550127,2006-09-01 00:00:00.000,adventure-works.com
+29771,Mr.,Dominic,P.,Gash,Associated Bikes,adventure-works\shu0,dominic0@adventure-works.com,1925550173,2006-07-01 00:00:00.000,adventure-works.com
+29772,Ms.,Janet,M.,Gates,Modular Cycle Systems,adventure-works\jillian0,janet1@adventure-works.com,7105550173,2006-07-01 00:00:00.000,adventure-works.com
+29773,Mr.,Orlando,N.,Gee,A Bike Store,adventure-works\pamela0,orlando0@adventure-works.com,2455550173,2005-08-01 00:00:00.000,adventure-works.com
+29774,Mr.,Darren,Unknown,Gehring,Journey Sporting Goods,adventure-works\jillian0,darren0@adventure-works.com,4175550182,2005-08-01 00:00:00.000,adventure-works.com
+29775,Mr.,Jim,Unknown,Geist,Two Bike Shops,adventure-works\pamela0,jim1@adventure-works.com,7245550161,2006-09-01 00:00:00.000,adventure-works.com
+29776,Ms.,Barbara,J.,German,Cycles Wholesaler & Mfg.,adventure-works\jae0,barbara4@adventure-works.com,1115005550181,2007-07-01 00:00:00.000,adventure-works.com
+29778,Mr.,Leo,Unknown,Giakoumakis,Number One Bike Co.,adventure-works\jae0,leo0@adventure-works.com,1115005550169,2006-07-01 00:00:00.000,adventure-works.com
+29780,Mr.,Frances,J.,Giglio,Standard Bikes,adventure-works\josé1,frances1@adventure-works.com,6925550136,2006-08-01 00:00:00.000,adventure-works.com
+29781,Mr.,Guy,Unknown,Gilbert,The Bicycle Accessories Company,adventure-works\shu0,guy0@adventure-works.com,5835550198,2006-09-01 00:00:00.000,adventure-works.com
+29782,Ms.,Janet,J.,Gilliat,Active Systems,adventure-works\jillian0,janet2@adventure-works.com,5215550183,2006-07-01 00:00:00.000,adventure-works.com
+29783,Ms.,Mary,M.,Gimmi,Futuristic Sport Distributors,adventure-works\shu0,mary6@adventure-works.com,1495550196,2006-07-01 00:00:00.000,adventure-works.com
+29784,Ms.,Jeanie,R.,Glenn,Big-Time Bike Store,adventure-works\shu0,jeanie0@adventure-works.com,6695550149,2006-08-01 00:00:00.000,adventure-works.com
+29785,Ms.,Diane,R.,Glimp,The Showroom,adventure-works\josé1,diane3@adventure-works.com,8985550137,2005-11-01 00:00:00.000,adventure-works.com
+29787,Mr.,Scott,Unknown,Gode,Year-Round Sports,adventure-works\david8,scott4@adventure-works.com,1645550145,2005-08-01 00:00:00.000,adventure-works.com
+29788,Mr.,Mete,Unknown,Goktepe,The New Bike Store,adventure-works\linda3,mete0@adventure-works.com,6375550120,2005-12-01 00:00:00.000,adventure-works.com
+29789,Mr.,Brian,R,Goldstein,Primary Bike Distributors,adventure-works\garrett1,brian4@adventure-works.com,4955550161,2005-08-01 00:00:00.000,adventure-works.com
+29792,Ms.,Abigail,J.,Gonzalez,Genial Bike Associates,adventure-works\jillian0,abigail0@adventure-works.com,1215550139,2006-08-01 00:00:00.000,adventure-works.com
+29793,Mr.,Michael,Unknown,Graff,Commercial Sporting Goods,adventure-works\shu0,michael16@adventure-works.com,1325550150,2006-09-01 00:00:00.000,adventure-works.com
+29794,Mr.,Derek,Unknown,Graham,Wholesale Parts,adventure-works\josé1,derek0@adventure-works.com,6745550187,2005-08-01 00:00:00.000,adventure-works.com
+29796,Mr.,Jon,Unknown,Grande,Riding Cycles,adventure-works\jae0,jon1@adventure-works.com,1115005550114,2007-09-01 00:00:00.000,adventure-works.com
+29797,Ms.,Jane,P.,Greer,Metro Manufacturing,adventure-works\josé1,jane2@adventure-works.com,7375550163,2006-08-01 00:00:00.000,adventure-works.com
+29799,Mr.,Douglas,Unknown,Groncki,Locks Company,adventure-works\shu0,douglas2@adventure-works.com,3855550140,2007-09-01 00:00:00.000,adventure-works.com
+29800,Mr.,Brian,Unknown,Groth,Latest Accessories Sales,adventure-works\david8,brian5@adventure-works.com,4615550118,2006-08-01 00:00:00.000,adventure-works.com
+29803,Ms.,Hattie,J.,Haemon,Greater Bike Store,adventure-works\josé1,hattie0@adventure-works.com,1415550172,2005-09-01 00:00:00.000,adventure-works.com
+29805,Ms.,Erin,M.,Hagens,Distant Inn,adventure-works\shu0,erin1@adventure-works.com,2445550127,2006-07-01 00:00:00.000,adventure-works.com
+29806,Ms.,Betty,M.,Haines,Finer Mart,adventure-works\david8,betty0@adventure-works.com,8675550114,2007-09-01 00:00:00.000,adventure-works.com
+29807,Mr.,Bryan,Unknown,Hamilton,Cross-Country Riding Supplies,adventure-works\josé1,bryan2@adventure-works.com,3445550144,2005-08-01 00:00:00.000,adventure-works.com
+29809,Mr.,Kerim,Unknown,Hanif,Bike World,adventure-works\shu0,kerim0@adventure-works.com,2165550122,2006-09-01 00:00:00.000,adventure-works.com
+29810,Ms.,Jean,P.,Handley,Central Discount Store,adventure-works\david8,jean1@adventure-works.com,5825550113,2005-09-01 00:00:00.000,adventure-works.com
+29813,Ms.,Katherine,Unknown,Harding,Sharp Bikes,adventure-works\josé1,katherine0@adventure-works.com,9265550159,2005-08-01 00:00:00.000,adventure-works.com
+29815,Mr.,Lucy,Unknown,Harrington,Metropolitan Sports Supply,adventure-works\shu0,lucy0@adventure-works.com,8285550186,2006-09-01 00:00:00.000,adventure-works.com
+29816,Mr.,Keith,Unknown,Harris,Progressive Sports,adventure-works\david8,keith0@adventure-works.com,1705550127,2006-08-01 00:00:00.000,adventure-works.com
+29818,Mr.,Roger,Unknown,Harui,Brakes and Gears,adventure-works\linda3,roger0@adventure-works.com,7745550133,2005-08-01 00:00:00.000,adventure-works.com
+29819,Ms.,Ann,T.,Hass,The Accessories Store,adventure-works\jillian0,ann2@adventure-works.com,7135550168,2006-08-01 00:00:00.000,adventure-works.com
+29822,Mr.,James,B.,Haugh,Family Cycle Store,adventure-works\garrett1,james8@adventure-works.com,7635550120,2006-09-01 00:00:00.000,adventure-works.com
+29824,Ms.,Brenda,F.,Heaney,Superb Sales and Repair,adventure-works\garrett1,brenda3@adventure-works.com,3935550167,2005-07-01 00:00:00.000,adventure-works.com
+29826,Mr.,John,Unknown,Hanson,Countryside Company,adventure-works\linda3,john20@adventure-works.com,1075550117,2006-10-01 00:00:00.000,adventure-works.com
+29827,Ms.,Valerie,M.,Hendricks,First Bike Store,adventure-works\jillian0,valerie0@adventure-works.com,8595550140,2005-07-01 00:00:00.000,adventure-works.com
+29830,Mr.,Kari,Unknown,Hensien,General Department Stores,adventure-works\garrett1,kari0@adventure-works.com,1435550129,2005-08-01 00:00:00.000,adventure-works.com
+29831,Ms.,Irene,J.,Hernandez,Operational Manufacturing,adventure-works\garrett1,irene0@adventure-works.com,7905550197,2008-06-01 00:00:00.000,adventure-works.com
+29832,Mr.,Jésus,Unknown,Hernandez,Online Bike Warehouse,adventure-works\josé1,jésus0@adventure-works.com,2145550145,2006-09-01 00:00:00.000,adventure-works.com
+29834,Ms.,Cheryl,M.,Herring,Small Bike Shop,adventure-works\shu0,cheryl0@adventure-works.com,1585550154,2005-09-01 00:00:00.000,adventure-works.com
+29835,Mr.,Ronald,K.,Heymsfield,Superior Hardware Distributors,adventure-works\david8,ronald1@adventure-works.com,7845550120,2006-08-01 00:00:00.000,adventure-works.com
+29840,Mr.,Andrew,R.,Hill,Eastside Parts Shop,adventure-works\josé1,andrew4@adventure-works.com,1945550149,2007-09-01 00:00:00.000,adventure-works.com
+29842,Mr.,Mike,Unknown,Hines,First Cycle Store,adventure-works\shu0,mike3@adventure-works.com,4545550160,2005-09-01 00:00:00.000,adventure-works.com
+29843,Mr.,Matthew,Unknown,Hink,Running and Cycling Gear,adventure-works\david8,matthew3@adventure-works.com,1465550176,2007-09-01 00:00:00.000,adventure-works.com
+29847,Mr.,David,Unknown,Hodgson,Good Toys,adventure-works\linda3,david16@adventure-works.com,9695550117,2006-09-01 00:00:00.000,adventure-works.com
+29848,Ms.,Helge,Unknown,Hoeing,Little Bicycle Supply Shop,adventure-works\jillian0,helge0@adventure-works.com,8505550198,2007-08-01 00:00:00.000,adventure-works.com
+29850,Mr.,Bob,Unknown,Hodges,All Seasons Sports Supply,adventure-works\jillian0,bob2@adventure-works.com,1295550120,2007-07-01 00:00:00.000,adventure-works.com
+29851,Ms.,Jean,J.,Holloway,Leisure Clearing House,adventure-works\jae0,jean2@adventure-works.com,1115005550181,2006-08-01 00:00:00.000,adventure-works.com
+29852,Mr.,Eddie,M.,Holmes,The Commissary,adventure-works\josé1,eddie0@adventure-works.com,5705550199,2006-12-01 00:00:00.000,adventure-works.com
+29853,Ms.,Juanita,J.,Holman,Affordable Sports Equipment,adventure-works\shu0,juanita0@adventure-works.com,9965550196,2005-08-01 00:00:00.000,adventure-works.com
+29854,Mr.,Peter,Unknown,Houston,Local Sales and Rental,adventure-works\jillian0,peter3@adventure-works.com,6325550171,2007-09-01 00:00:00.000,adventure-works.com
+29855,Mr.,Curtis,P.,Howard,Economy Center,adventure-works\josé1,curtis0@adventure-works.com,5555550162,2005-08-01 00:00:00.000,adventure-works.com
+29857,Ms.,Janice,K.,Hows,Area Sheet Metal Supply,adventure-works\jae0,janice1@adventure-works.com,1115005550119,2006-08-01 00:00:00.000,adventure-works.com
+29858,Mr.,George,M.,Huckaby,Synthetic Materials Manufacturing,adventure-works\pamela0,george1@adventure-works.com,8515550127,2006-01-01 00:00:00.000,adventure-works.com
+29859,Mr.,Joshua,J.,Huff,Rural Sales and Service,adventure-works\jillian0,joshua0@adventure-works.com,1905550186,2006-03-01 00:00:00.000,adventure-works.com
+29860,Ms.,Arlene,Unknown,Huff,Tubeless Tire Company,adventure-works\jae0,arlene0@adventure-works.com,1115005550146,2007-08-01 00:00:00.000,adventure-works.com
+29861,Ms.,Phyllis,R.,Huntsman,Hardware Components,adventure-works\jillian0,phyllis1@adventure-works.com,1535550195,2005-08-01 00:00:00.000,adventure-works.com
+29862,Mr.,Lawrence,E.,Hurkett,Retail Sporting Goods,adventure-works\shu0,lawrence0@adventure-works.com,1295550185,2006-10-01 00:00:00.000,adventure-works.com
+29863,Mr.,Ryan,Unknown,Ihrig,Efficient Cycling,adventure-works\josé1,ryan4@adventure-works.com,8095550152,2007-08-01 00:00:00.000,adventure-works.com
+29864,Ms.,Beth,Unknown,Inghram,General Industries,adventure-works\josé1,beth0@adventure-works.com,7185550152,2006-09-01 00:00:00.000,adventure-works.com
+29865,Mr.,Lucio,Unknown,Iallo,Highway Bike Shop,adventure-works\shu0,lucio0@adventure-works.com,1995550135,2005-08-01 00:00:00.000,adventure-works.com
+29866,Mr.,Richard,L.,Irwin,Rental Bikes,adventure-works\jillian0,richard4@adventure-works.com,3675550124,2005-08-01 00:00:00.000,adventure-works.com
+29867,Mr.,Erik,Unknown,Ismert,Roving Sports,adventure-works\pamela0,erik0@adventure-works.com,1165550163,2006-07-01 00:00:00.000,adventure-works.com
+29868,Ms.,Denean,J.,Ison,Express Bike Services,adventure-works\jae0,denean0@adventure-works.com,1115005550127,2007-08-01 00:00:00.000,adventure-works.com
+29870,Mr.,Bronson,R.,Jacobs,Retail Discount Store,adventure-works\josé1,bronson0@adventure-works.com,6975550131,2008-06-01 00:00:00.000,adventure-works.com
+29871,Mr.,Eric,A.,Jacobsen,Vale Riding Supplies,adventure-works\shu0,eric5@adventure-works.com,7035550120,2007-07-01 00:00:00.000,adventure-works.com
+29872,Ms.,Jodan,M.,Jacobson,A Great Bicycle Company,adventure-works\jillian0,jodan0@adventure-works.com,6525550189,2005-09-01 00:00:00.000,adventure-works.com
+29873,Ms.,Mary,Unknown,Alexander,Certified Bicycle Supply,adventure-works\pamela0,mary7@adventure-works.com,3445550133,2006-09-01 00:00:00.000,adventure-works.com
+29874,Mr.,David,Unknown,Jaffe,Exceptional Cycle Services,adventure-works\jae0,david17@adventure-works.com,1115005550140,2007-07-01 00:00:00.000,adventure-works.com
+29876,Ms.,Vance,P.,Johns,Leisure Activities,adventure-works\josé1,vance0@adventure-works.com,1035550151,2006-08-01 00:00:00.000,adventure-works.com
+29877,Ms.,Joyce,Unknown,Jarvis,Paints and Solvents Company,adventure-works\shu0,joyce0@adventure-works.com,4585550179,2007-09-01 00:00:00.000,adventure-works.com
+29879,Mr.,Stephen,Yuan,Jiang,Bikes for Kids and Adults,adventure-works\josé1,stephen3@adventure-works.com,9105550116,2006-07-01 00:00:00.000,adventure-works.com
+29881,Ms.,Danielle,B.,Johnson,Home Town Bike Store,adventure-works\garrett1,danielle1@adventure-works.com,3565550190,2007-09-01 00:00:00.000,adventure-works.com
+29883,Mr.,Barry,Unknown,Johnson,Sample Bike Store,adventure-works\linda3,barry1@adventure-works.com,8585550140,2005-09-01 00:00:00.000,adventure-works.com
+29884,Mr.,Brian,Unknown,Johnson,Extras Sporting Goods,adventure-works\jillian0,brian6@adventure-works.com,3205550134,2007-03-01 00:00:00.000,adventure-works.com
+29885,Mr.,David,Unknown,Johnson,Sure & Reliable Sporting Goods,adventure-works\david8,david18@adventure-works.com,4765550139,2005-08-01 00:00:00.000,adventure-works.com
+29889,Ms.,Jean,Unknown,Jordan,Separate Parts Corporation,adventure-works\shu0,jean3@adventure-works.com,2075550129,2005-07-01 00:00:00.000,adventure-works.com
+29890,Ms.,Peggy,J.,Justice,Basic Bike Company,adventure-works\david8,peggy0@adventure-works.com,1705550189,2005-07-01 00:00:00.000,adventure-works.com
+29891,Ms.,Diane,F.,Krane,"Fabrikam Inc., West",adventure-works\michael9,diane4@adventure-works.com,2245550126,2006-09-01 00:00:00.000,adventure-works.com
+29892,Ms.,Sandra,T.,Kitt,Non-Slip Pedal Company,adventure-works\josé1,sandra2@adventure-works.com,3035550117,2005-08-01 00:00:00.000,adventure-works.com
+29893,Mr.,Sandeep,Unknown,Kaliyath,Weekend Bike Tours,adventure-works\shu0,sandeep1@adventure-works.com,4955550113,2007-07-01 00:00:00.000,adventure-works.com
+29895,Ms.,Lori,Unknown,Kane,General Supplies,adventure-works\josé1,lori2@adventure-works.com,7655550141,2006-08-01 00:00:00.000,adventure-works.com
+29897,Ms.,Kay,E.,Krane,Racing Toys,adventure-works\shu0,kay0@adventure-works.com,7315550187,2005-09-01 00:00:00.000,adventure-works.com
+29898,Mr.,Sandeep,Unknown,Katyal,Capable Sales and Service,adventure-works\pamela0,sandeep2@adventure-works.com,9285550117,2005-07-01 00:00:00.000,adventure-works.com
+29900,Mr.,Victor,A.,Kelley,Road Way Sales and Rental,adventure-works\josé1,victor0@adventure-works.com,1125550195,2006-12-01 00:00:00.000,adventure-works.com
+29901,Mr.,John,Unknown,Kelly,Sturdy Toys,adventure-works\shu0,john22@adventure-works.com,3305550116,2005-08-01 00:00:00.000,adventure-works.com
+29902,Mr.,Robert,Unknown,Kelly,Beneficial Exercises and Activities,adventure-works\jillian0,robert7@adventure-works.com,5105550123,2006-09-01 00:00:00.000,adventure-works.com
+29903,Mr.,Kevin,Unknown,Kennedy,Fad Outlet,adventure-works\pamela0,kevin4@adventure-works.com,2755550179,2006-09-01 00:00:00.000,adventure-works.com
+29904,Ms.,Mary,R.,Kesslep,Commerce Bicycle Specialists,adventure-works\jae0,mary8@adventure-works.com,1115005550146,2006-08-01 00:00:00.000,adventure-works.com
+29905,Ms.,Elizabeth,Unknown,Keyser,Acceptable Sales & Service,adventure-works\josé1,elizabeth2@adventure-works.com,6565550173,2005-08-01 00:00:00.000,adventure-works.com
+29906,Mr.,Imtiaz,Unknown,Khan,District Mall,adventure-works\jillian0,imtiaz0@adventure-works.com,2495550179,2005-08-01 00:00:00.000,adventure-works.com
+29907,Ms.,Karan,Unknown,Khanna,Fitness Supplies,adventure-works\pamela0,karan1@adventure-works.com,3905550150,2007-08-01 00:00:00.000,adventure-works.com
+29908,Mr.,Joe,Unknown,Kim,Mail Market,adventure-works\jae0,joe1@adventure-works.com,1115005550144,2007-08-01 00:00:00.000,adventure-works.com
+29910,Mr.,Shane,S.,Kim,Twelfth Bike Store,adventure-works\josé1,shane2@adventure-works.com,1555550149,2006-08-01 00:00:00.000,adventure-works.com
+29911,Mr.,Tim,Unknown,Kim,Consolidated Messenger,adventure-works\garrett1,tim0@adventure-works.com,2445550115,2007-08-01 00:00:00.000,adventure-works.com
+29913,Mr.,Anton,Unknown,Kirilov,Field Trip Store,adventure-works\linda3,anton0@adventure-works.com,6085550162,2006-08-01 00:00:00.000,adventure-works.com
+29914,Mr.,Christian,Unknown,Kleinerman,Finish and Sealant Products,adventure-works\shu0,christian1@adventure-works.com,3625550177,2005-09-01 00:00:00.000,adventure-works.com
+29915,Mr.,Andrew,P.,Kobylinski,Finer Parts Shop,adventure-works\david8,andrew5@adventure-works.com,1295550185,2005-12-01 00:00:00.000,adventure-works.com
+29918,Mr.,Kirk,T,King,Up-To-Date Sports,adventure-works\josé1,kirk2@adventure-works.com,9795550163,2007-08-01 00:00:00.000,adventure-works.com
+29919,Mr.,Eugene,Unknown,Kogan,Mountain Bike Center,adventure-works\shu0,eugene2@adventure-works.com,1365550134,2006-08-01 00:00:00.000,adventure-works.com
+29920,Mr.,Scott,Unknown,Konersmann,Specialty Sports Store,adventure-works\jillian0,scott6@adventure-works.com,5565550192,2006-07-01 00:00:00.000,adventure-works.com
+29921,Ms.,Joy,R.,Koski,Scooters and Bikes Store,adventure-works\pamela0,joy0@adventure-works.com,8105550198,2005-09-01 00:00:00.000,adventure-works.com
+29922,Ms.,Pamala,M.,Kotc,Closest Bicycle Store,adventure-works\jae0,pamala0@adventure-works.com,1115005550173,2007-09-01 00:00:00.000,adventure-works.com
+29924,Mr.,Mitch,Unknown,Kennedy,Reasonable Bicycle Sales,adventure-works\shu0,mitch0@adventure-works.com,9965550192,2006-08-01 00:00:00.000,adventure-works.com
+29925,Ms.,Margaret,T.,Krupka,Outdoor Sports Supply,adventure-works\pamela0,margaret1@adventure-works.com,1075550132,2005-08-01 00:00:00.000,adventure-works.com
+29926,Mr.,Deepak,Unknown,Kumar,Outdoor Aerobic Systems Company,adventure-works\jae0,deepak0@adventure-works.com,1115005550122,2007-08-01 00:00:00.000,adventure-works.com
+29928,Mr.,Vamsi,Unknown,Kuppa,Metal Clearing House,adventure-works\josé1,vamsi1@adventure-works.com,2905550196,2007-08-01 00:00:00.000,adventure-works.com
+29929,Mr.,Jeffrey,Unknown,Kurtz,Many Bikes Store,adventure-works\shu0,jeffrey3@adventure-works.com,4525550179,2006-09-01 00:00:00.000,adventure-works.com
+29930,Mr.,Peter,Unknown,Kurniawan,Largest Bike Store,adventure-works\jillian0,peter4@adventure-works.com,4365550160,2005-11-01 00:00:00.000,adventure-works.com
+29931,Mr.,Eric,Unknown,Lang,Kickstands and Accessories Company,adventure-works\pamela0,eric6@adventure-works.com,9325550163,2007-09-01 00:00:00.000,adventure-works.com
+29932,Ms.,Rebecca,Unknown,Laszlo,Instruments and Parts Company,adventure-works\jae0,rebecca2@adventure-works.com,1115005550155,2007-09-01 00:00:00.000,adventure-works.com
+29934,Mr.,David,O,Lawrence,Gear-Shift Bikes Limited,adventure-works\josé1,david19@adventure-works.com,6535550159,2006-12-01 00:00:00.000,adventure-works.com
+29935,Ms.,Elsa,Unknown,Leavitt,Frugal Bike Shop,adventure-works\shu0,elsa0@adventure-works.com,4825550174,2006-08-01 00:00:00.000,adventure-works.com
+29936,Mr.,Michael,J.,Lee,Family Entertainment Center,adventure-works\pamela0,michael18@adventure-works.com,3965550139,2007-08-01 00:00:00.000,adventure-works.com
+29937,Ms.,Marjorie,M.,Lee,Go-cart and Bike Specialists,adventure-works\jillian0,marjorie0@adventure-works.com,3065550166,2006-07-01 00:00:00.000,adventure-works.com
+29938,Mr.,Frank,Unknown,Campbell,Trailblazing Sports,adventure-works\shu0,frank4@adventure-works.com,4915550132,2005-09-01 00:00:00.000,adventure-works.com
+29939,Mr.,Mark,Unknown,Lee,Racing Partners,adventure-works\josé1,mark5@adventure-works.com,3715550112,2007-09-01 00:00:00.000,adventure-works.com
+29941,Ms.,Jolie,Unknown,Lenehan,Exhibition Showroom,adventure-works\jae0,jolie0@adventure-works.com,1115005550126,2007-07-01 00:00:00.000,adventure-works.com
+29942,Mr.,Roger,Unknown,Lengel,Authorized Bike Sales and Rental,adventure-works\pamela0,roger1@adventure-works.com,9475550143,2007-08-01 00:00:00.000,adventure-works.com
+29943,Unknown,A.,Francesca,Leonetti,Two-Seater Bikes,adventure-works\jillian0,a0@adventure-works.com,6455550193,2007-09-01 00:00:00.000,adventure-works.com
+29944,Ms.,Bonnie,B.,Lepro,More Bikes!,adventure-works\linda3,bonnie2@adventure-works.com,3545550130,2005-09-01 00:00:00.000,adventure-works.com
+29946,Ms.,Linda,Unknown,Leste,National Manufacturing,adventure-works\garrett1,linda7@adventure-works.com,4935550134,2005-08-01 00:00:00.000,adventure-works.com
+29948,Ms.,Elsie,L.,Lewin,Town Industries,adventure-works\jillian0,elsie0@adventure-works.com,8035550116,2007-09-01 00:00:00.000,adventure-works.com
+29949,Mr.,George,Z.,Li,Security Racks and Locks Wholesalers,adventure-works\shu0,george3@adventure-works.com,6995550183,2006-08-01 00:00:00.000,adventure-works.com
+29950,Mr.,Yale,Unknown,Li,Rapid Bikes,adventure-works\josé1,yale0@adventure-works.com,3165550138,2005-09-01 00:00:00.000,adventure-works.com
+29952,Ms.,Yuhong,Unknown,Li,Nearby Sporting Goods,adventure-works\jae0,yuhong1@adventure-works.com,1115005550176,2006-08-01 00:00:00.000,adventure-works.com
+29953,Mr.,Joseph,M.,Lique,Front Sporting Goods,adventure-works\pamela0,joseph2@adventure-works.com,1195550195,2006-08-01 00:00:00.000,adventure-works.com
+29954,Mr.,Paulo,H.,Lisboa,Elite Bikes,adventure-works\jillian0,paulo0@adventure-works.com,3805550116,2006-09-01 00:00:00.000,adventure-works.com
+29955,Mr.,David,J.,Liu,Catalog Store,adventure-works\michael9,david20@adventure-works.com,4405550132,2005-08-01 00:00:00.000,adventure-works.com
+29956,Unknown,Jinghao,Unknown,Liu,Chic Department Stores,adventure-works\jillian0,jinghao1@adventure-works.com,9285550116,2006-09-01 00:00:00.000,adventure-works.com
+29957,Mr.,Kevin,Unknown,Liu,Eastside Department Store,adventure-works\linda3,kevin5@adventure-works.com,9265550164,2006-09-01 00:00:00.000,adventure-works.com
+29959,Mr.,Todd,R.,Logan,Cycle Merchants,adventure-works\garrett1,todd0@adventure-works.com,7835550110,2006-09-01 00:00:00.000,adventure-works.com
+29962,Ms.,Sharon,J.,Looney,Fitness Hotel,adventure-works\jillian0,sharon2@adventure-works.com,3775550132,2006-09-01 00:00:00.000,adventure-works.com
+29964,Ms.,Anita,R.,Lucerne,Grand Industries,adventure-works\garrett1,anita0@adventure-works.com,1645550118,2007-09-01 00:00:00.000,adventure-works.com
+29967,Ms.,Judy,R.,Lundahl,Leading Sales & Repair,adventure-works\jillian0,judy1@adventure-works.com,2605550130,2005-09-01 00:00:00.000,adventure-works.com
+29969,Mr.,Robert,P.,Lyeba,Tandem Sales and Service,adventure-works\garrett1,robert8@adventure-works.com,6315550155,2005-09-01 00:00:00.000,adventure-works.com
+29971,Mr.,Robert,Unknown,Lyon,Reliable Retail Center,adventure-works\garrett1,robert9@adventure-works.com,6665550143,2006-09-01 00:00:00.000,adventure-works.com
+29973,Ms.,Denise,R.,Maccietto,Friendly Bike Shop,adventure-works\michael9,denise1@adventure-works.com,5375550190,2005-10-01 00:00:00.000,adventure-works.com
+29974,Mr.,Scott,Unknown,MacDonald,Yellow Bicycle Company,adventure-works\jillian0,scott7@adventure-works.com,4705550171,2005-07-01 00:00:00.000,adventure-works.com
+29975,Mr.,Walter,J.,Mays,Sports Products Store,adventure-works\linda3,walter1@adventure-works.com,2455550191,2006-09-01 00:00:00.000,adventure-works.com
+29978,Mr.,Ajay,Unknown,Manchepalli,Shipping Specialists,adventure-works\jae0,ajay0@adventure-works.com,1115005550174,2008-02-01 00:00:00.000,adventure-works.com
+29980,Mr.,Tomas,M.,Manzanares,Authentic Sales and Service,adventure-works\jae0,tomas0@adventure-works.com,1115005550178,2006-09-01 00:00:00.000,adventure-works.com
+29981,Ms.,Kathy,R.,Marcovecchio,Official Parts Shop,adventure-works\pamela0,kathy0@adventure-works.com,9425550141,2006-07-01 00:00:00.000,adventure-works.com
+29982,Ms.,Melissa,R.,Marple,Discount Tours,adventure-works\shu0,melissa0@adventure-works.com,6855550117,2005-12-01 00:00:00.000,adventure-works.com
+29983,Ms.,Cecelia,L.,Marshall,Tire Exchange,adventure-works\josé1,cecelia0@adventure-works.com,3945550168,2006-08-01 00:00:00.000,adventure-works.com
+29985,Ms.,Linda,Unknown,Martin,Oils and Fluids Warehouse,adventure-works\jae0,linda8@adventure-works.com,1115005550137,2006-08-01 00:00:00.000,adventure-works.com
+29987,Mr.,Frank,Unknown,Mart¡nez,Rally Master Company Inc,adventure-works\shu0,frank5@adventure-works.com,1715550147,2007-07-01 00:00:00.000,adventure-works.com
+29988,Mr.,Steve,Unknown,Masters,Professional Cyclists,adventure-works\josé1,steve2@adventure-works.com,1545550115,2005-08-01 00:00:00.000,adventure-works.com
+29990,Ms.,Jennifer,J.,Maxham,Exclusive Bicycle Mart,adventure-works\jae0,jennifer1@adventure-works.com,1115005550175,2006-08-01 00:00:00.000,adventure-works.com
+29991,Mr.,Chris,Unknown,Maxwell,City Manufacturing,adventure-works\pamela0,chris6@adventure-works.com,6425550187,2006-11-01 00:00:00.000,adventure-works.com
+29992,Ms.,Sandra,B.,Maynard,Bike Dealers Association,adventure-works\shu0,sandra4@adventure-works.com,9935550179,2005-07-01 00:00:00.000,adventure-works.com
+29994,Ms.,Robin,M.,McGuigan,"Health Spa, Limited",adventure-works\josé1,robin0@adventure-works.com,4315550153,2005-07-01 00:00:00.000,adventure-works.com
+29997,Ms.,Lola,M.,McCarthy,Closeout Boutique,adventure-works\david8,lola0@adventure-works.com,1735550151,2006-08-01 00:00:00.000,adventure-works.com
+29998,Ms.,Jane,A.,McCarty,Bicycle Merchandise Warehouse,adventure-works\shu0,jane3@adventure-works.com,5295550195,2006-09-01 00:00:00.000,adventure-works.com
+30000,Mr.,James,L.,McCoy,Leather Seat Factory,adventure-works\josé1,james12@adventure-works.com,1915550151,2006-07-01 00:00:00.000,adventure-works.com
+30003,Ms.,Yvonne,Unknown,McKay,Practical Bike Supply Company,adventure-works\jillian0,yvonne1@adventure-works.com,6235550144,2005-09-01 00:00:00.000,adventure-works.com
+30004,Ms.,Nkenge,Unknown,McLin,Some Discount Store,adventure-works\pamela0,nkenge0@adventure-works.com,1585550123,2005-08-01 00:00:00.000,adventure-works.com
+30005,Ms.,Nancy,A.,McPhearson,Variety Cycling,adventure-works\jae0,nancy3@adventure-works.com,1115005550195,2007-08-01 00:00:00.000,adventure-works.com
+30007,Ms.,Raquel,Unknown,Mello,Remote Bicycle Specialists,adventure-works\josé1,raquel0@adventure-works.com,7235550124,2006-09-01 00:00:00.000,adventure-works.com
+30008,Mr.,R. Morgan,L.,Mendoza,Friendly Neighborhood Bikes,adventure-works\jillian0,rmorgan0@adventure-works.com,9635550146,2007-06-01 00:00:00.000,adventure-works.com
+30010,Mr.,Stephen,A.,Mew,Recommended Bicycles,adventure-works\garrett1,stephen4@adventure-works.com,3995550114,2005-11-01 00:00:00.000,adventure-works.com
+30012,Ms.,Helen,M.,Meyer,Alpine Ski House,adventure-works\linda3,helen2@adventure-works.com,5195550112,2005-11-01 00:00:00.000,adventure-works.com
+30016,Mr.,Thomas,R.,Michaels,Seats and Saddles Company,adventure-works\garrett1,thomas2@adventure-works.com,1625550174,2006-11-01 00:00:00.000,adventure-works.com
+30018,Ms.,Virginia,L.,Miller,All Cycle Shop,adventure-works\pamela0,virginia0@adventure-works.com,9185550127,2006-07-01 00:00:00.000,adventure-works.com
+30019,Mr.,Matthew,J.,Miller,Tachometers and Accessories,adventure-works\jae0,matthew5@adventure-works.com,1115005550176,2006-09-01 00:00:00.000,adventure-works.com
+30021,Mr.,Ben,Unknown,Miller,Low Price Cycles,adventure-works\josé1,ben1@adventure-works.com,2075550167,2007-08-01 00:00:00.000,adventure-works.com
+30022,Mr.,Dylan,Unknown,Miller,Metropolitan Manufacturing,adventure-works\shu0,dylan1@adventure-works.com,1405550192,2005-11-01 00:00:00.000,adventure-works.com
+30023,Mr.,Frank,Unknown,Miller,Orange Bicycle Company,adventure-works\jillian0,frank6@adventure-works.com,1185550184,2006-08-01 00:00:00.000,adventure-works.com
+30024,Ms.,Neva,M.,Mitchell,Riding Associates,adventure-works\pamela0,neva0@adventure-works.com,9925550134,2007-08-01 00:00:00.000,adventure-works.com
+30025,Ms.,Linda,Unknown,Mitchell,Essential Bike Works,adventure-works\jae0,linda9@adventure-works.com,1115005550182,2007-09-01 00:00:00.000,adventure-works.com
+30027,Mr.,Joseph,P.,Mitzner,Engineered Bike Systems,adventure-works\shu0,joseph4@adventure-works.com,1295550164,2007-09-01 00:00:00.000,adventure-works.com
+30028,Ms.,Laura,C.,Steele,Professional Containers and Packaging Co.,adventure-works\shu0,laura3@adventure-works.com,7415550173,2006-08-01 00:00:00.000,adventure-works.com
+30029,Ms.,Shanay,B.,Steelman,One Bike Company,adventure-works\josé1,shanay0@adventure-works.com,7975550118,2006-09-01 00:00:00.000,adventure-works.com
+30030,Mr.,Stefano,Unknown,Stefani,Cycling Goods,adventure-works\jae0,stefano0@adventure-works.com,1115005550115,2006-08-01 00:00:00.000,adventure-works.com
+30031,Mr.,Alan,Unknown,Steiner,Cycle Clearance,adventure-works\pamela0,alan4@adventure-works.com,7925550194,2007-09-01 00:00:00.000,adventure-works.com
+30032,Mr.,Derik,Unknown,Stenerson,Black Bicycle Company,adventure-works\jillian0,derik0@adventure-works.com,4415550144,2007-02-01 00:00:00.000,adventure-works.com
+30033,Mr.,Vassar,J.,Stern,Transport Bikes,adventure-works\shu0,vassar0@adventure-works.com,3285550123,2007-09-01 00:00:00.000,adventure-works.com
+30034,Ms.,Wathalee,R.,Steuber,Sellers of Cycles,adventure-works\pamela0,wathalee0@adventure-works.com,5175550120,2007-09-01 00:00:00.000,adventure-works.com
+30035,Ms.,Alice,M.,Steiner,Maintenance and Repair for Bicycles,adventure-works\jillian0,alice4@adventure-works.com,3555550180,2007-08-01 00:00:00.000,adventure-works.com
+30036,Ms.,Liza Marie,N.,Stevens,Fitness Department Stores,adventure-works\shu0,lizamarie0@adventure-works.com,3665550110,2007-08-01 00:00:00.000,adventure-works.com
+30037,Mr.,Jim,Unknown,Stewart,Famous Bike Shop,adventure-works\garrett1,jim5@adventure-works.com,2265550110,2006-09-01 00:00:00.000,adventure-works.com
+30039,Mr.,Robert,B.,Stotka,Gift and Toy Store,adventure-works\jillian0,robert12@adventure-works.com,4935550185,2006-07-01 00:00:00.000,adventure-works.com
+30040,Ms.,Kayla,M.,Stotler,Major Sporting Goods,adventure-works\linda3,kayla0@adventure-works.com,3155550131,2007-02-01 00:00:00.000,adventure-works.com
+30042,Ms.,Ruby Sue,R.,Styles,Major Cycling,adventure-works\josé1,rubysue0@adventure-works.com,5125550122,2005-08-01 00:00:00.000,adventure-works.com
+30044,Mr.,Gary,J.,Suess,Downhill Bicycle Specialists,adventure-works\jae0,gary5@adventure-works.com,1115005550199,2006-08-01 00:00:00.000,adventure-works.com
+30045,Ms.,Ruth,J.,Suffin,Bike Experts,adventure-works\pamela0,ruth2@adventure-works.com,9245550195,2006-08-01 00:00:00.000,adventure-works.com
+30046,Ms.,Elizabeth,J.,Sullivan,Extraordinary Bike Works,adventure-works\jillian0,elizabeth4@adventure-works.com,3065550112,2006-09-01 00:00:00.000,adventure-works.com
+30047,Mr.,Michael,Unknown,Sullivan,Valley Bicycle Distributors,adventure-works\shu0,michael24@adventure-works.com,3235550113,2006-11-01 00:00:00.000,adventure-works.com
+30048,Ms.,Marcia,J.,Sultan,Top Sports Supply,adventure-works\josé1,marcia0@adventure-works.com,6135550116,2006-07-01 00:00:00.000,adventure-works.com
+30050,Mr.,Krishna,Unknown,Sunkammurali,Metropolitan Bicycle Supply,adventure-works\jae0,krishna1@adventure-works.com,1115005550177,2006-09-01 00:00:00.000,adventure-works.com
+30051,Mr.,Brad,Unknown,Sutton,Honest Repair Service,adventure-works\pamela0,brad0@adventure-works.com,6885550115,2007-07-01 00:00:00.000,adventure-works.com
+30052,Mr.,Abraham,L.,Swearengin,Wheel Gallery,adventure-works\shu0,abraham0@adventure-works.com,9265550136,2005-07-01 00:00:00.000,adventure-works.com
+30053,Ms.,Katherine,K.,Swan,Top Bike Market,adventure-works\garrett1,katherine1@adventure-works.com,4215550192,2007-09-01 00:00:00.000,adventure-works.com
+30055,Ms.,Julie,Unknown,Taft-Rider,Bicycle Lines Distributors,adventure-works\jillian0,julie1@adventure-works.com,1455550194,2006-08-01 00:00:00.000,adventure-works.com
+30056,Mr.,Clarence,R.,Tatman,Sparkling Paint and Finishes,adventure-works\linda3,clarence0@adventure-works.com,7875550128,2005-08-01 00:00:00.000,adventure-works.com
+30058,Mr.,Mike,M.,Taylor,Plastic Parts Company,adventure-works\garrett1,mike6@adventure-works.com,2045550189,2005-11-01 00:00:00.000,adventure-works.com
+30061,Mr.,Chad,J.,Tedford,Big Cycle Mall,adventure-works\jillian0,chad1@adventure-works.com,5885550128,2007-08-01 00:00:00.000,adventure-works.com
+30063,Ms.,Vanessa,J.,Tench,Eighth Bike Store,adventure-works\shu0,vanessa0@adventure-works.com,7855550163,2007-08-01 00:00:00.000,adventure-works.com
+30064,Ms.,Judy,J.,Thames,Demand Distributors,adventure-works\david8,judy3@adventure-works.com,7995550118,2006-06-01 00:00:00.000,adventure-works.com
+30067,Ms.,Phyllis,A.,Thomas,Red Bicycle Company,adventure-works\josé1,phyllis2@adventure-works.com,6675550112,2005-07-01 00:00:00.000,adventure-works.com
+30069,Mr.,Donald,M.,Thompson,Trendy Department Stores,adventure-works\shu0,donald1@adventure-works.com,2735550111,2007-09-01 00:00:00.000,adventure-works.com
+30070,Ms.,Kendra,N.,Thompson,Vintage Sport Boutique,adventure-works\david8,kendra0@adventure-works.com,4645550188,2007-07-01 00:00:00.000,adventure-works.com
+30071,Mr.,Daniel,P.,Thompson,Travel Sports,adventure-works\pamela0,daniel2@adventure-works.com,2475550197,2007-09-01 00:00:00.000,adventure-works.com
+30072,Ms.,Andrea,A.,Thomsen,West Side Mart,adventure-works\jae0,andrea1@adventure-works.com,1115005550120,2007-09-01 00:00:00.000,adventure-works.com
+30074,Ms.,Yuping,Unknown,Tian,Tenth Bike Store,adventure-works\josé1,yuping0@adventure-works.com,7445550123,2005-08-01 00:00:00.000,adventure-works.com
+30076,Ms.,Diane,Unknown,Tibbott,Fun Times Club,adventure-works\shu0,diane5@adventure-works.com,8475550184,2005-08-01 00:00:00.000,adventure-works.com
+30080,Ms.,Delia,B.,Toone,Wingtip Toys,adventure-works\david8,delia0@adventure-works.com,3285550192,2007-09-01 00:00:00.000,adventure-works.com
+30083,Mr.,Glenn,J.,Track,Active Life Toys,adventure-works\josé1,glenn0@adventure-works.com,9075550170,2006-09-01 00:00:00.000,adventure-works.com
+30087,Mr.,Billy,J.,Trent,Quick Parts and Service,adventure-works\garrett1,billy0@adventure-works.com,8825550115,2007-09-01 00:00:00.000,adventure-works.com
+30089,Mr.,Michael John,R.,Troyer,Thrifty Parts and Sales,adventure-works\linda3,michaeljohn0@adventure-works.com,3085550175,2007-09-01 00:00:00.000,adventure-works.com
+30090,Ms.,Christie,J.,Trujillo,A Typical Bike Shop,adventure-works\jillian0,christie0@adventure-works.com,6865550180,2005-09-01 00:00:00.000,adventure-works.com
+30093,Ms.,Phyllis,B.,Tuffield,Fasteners & Bolts Outlet,adventure-works\garrett1,phyllis3@adventure-works.com,2775550182,2007-08-01 00:00:00.000,adventure-works.com
+30094,Mr.,Sairaj,Unknown,Uddin,Quantity Discounts,adventure-works\linda3,sairaj1@adventure-works.com,7675550193,2006-08-01 00:00:00.000,adventure-works.com
+30095,Mr.,Sunil,Unknown,Uppal,Swift Cycles,adventure-works\jillian0,sunil0@adventure-works.com,1845550187,2005-08-01 00:00:00.000,adventure-works.com
+30098,Ms.,Esther,K.,Valle,Large Bike Shop,adventure-works\garrett1,esther0@adventure-works.com,4815550131,2006-07-01 00:00:00.000,adventure-works.com
+30100,Mr.,Jessie,E.,Valerio,Wire Baskets and Parts,adventure-works\linda3,jessie0@adventure-works.com,1035550179,2005-08-01 00:00:00.000,adventure-works.com
+30102,Mr.,Roger,Unknown,Van Houten,Sports Store,adventure-works\jae0,roger2@adventure-works.com,1115005550110,2006-12-01 00:00:00.000,adventure-works.com
+30104,Ms.,Rose,M.,Vandenouer,Extended Tours,adventure-works\jae0,rose1@adventure-works.com,1115005550140,2006-07-01 00:00:00.000,adventure-works.com
+30105,Mr.,Gregory,T.,Vanderbout,Convenient Sales and Service,adventure-works\pamela0,gregory1@adventure-works.com,6845550134,2006-09-01 00:00:00.000,adventure-works.com
+30106,Mr.,Michael,Unknown,Vanderhyde,Solid Bike Parts,adventure-works\jillian0,michael25@adventure-works.com,9185550141,2005-09-01 00:00:00.000,adventure-works.com
+30107,Ms.,Margaret,J.,Vanderkamp,Permanent Finish Products,adventure-works\shu0,margaret2@adventure-works.com,2655550143,2005-08-01 00:00:00.000,adventure-works.com
+30108,Ms.,Kara,N.,Vanderlinden,Mercantile Outlet,adventure-works\josé1,kara0@adventure-works.com,6805550160,2006-08-01 00:00:00.000,adventure-works.com
+30109,Mr.,Nieves,J.,Vargas,Exhilarating Cycles,adventure-works\michael9,nieves0@adventure-works.com,3715550184,2006-07-01 00:00:00.000,adventure-works.com
+30110,Mr.,Gary,T,Vargas,Exercise Center,adventure-works\shu0,gary6@adventure-works.com,1125550176,2006-09-01 00:00:00.000,adventure-works.com
+30111,Mr.,Ranjit,Rudra,Varkey Chudukatil,Great Bicycle Supply,adventure-works\jillian0,ranjit1@adventure-works.com,8105550160,2005-08-01 00:00:00.000,adventure-works.com
+30112,Ms.,Patricia,M.,Vasquez,Mail-Order Outlet,adventure-works\pamela0,patricia2@adventure-works.com,4905550132,2006-08-01 00:00:00.000,adventure-works.com
+30113,Mr.,Raja,D.,Venugopal,Nearby Cycle Shop,adventure-works\jae0,raja0@adventure-works.com,1115005550195,2006-09-01 00:00:00.000,adventure-works.com
+30115,Ms.,Dora,P.,Verdad,Retreat Inn,adventure-works\josé1,dora0@adventure-works.com,1555550140,2006-08-01 00:00:00.000,adventure-works.com
+30116,Ms.,Wanda,F.,Vernon,Technical Parts Manufacturing,adventure-works\shu0,wanda0@adventure-works.com,4335550168,2007-07-01 00:00:00.000,adventure-works.com
+30117,Mr.,Robert,R.,Vessa,Totes & Baskets Company,adventure-works\jillian0,robert13@adventure-works.com,5605550171,2005-08-01 00:00:00.000,adventure-works.com
+30118,Ms.,Caroline,A.,Vicknair,World of Bikes,adventure-works\jillian0,caroline0@adventure-works.com,6955550158,2006-09-01 00:00:00.000,adventure-works.com

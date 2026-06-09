@@ -1,0 +1,11 @@
+# Data Manipulation
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Optional: If you use Jupyter Notebooks specifically
+ipykernel>=6.29.0
+jupyter>=1.0.0
